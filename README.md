@@ -1,89 +1,81 @@
-<div align="center">
+# Hotel Find Application (Frontend)
 
-# Hotel Find 应用（前端）
+Hotel Find is a React single page application designed to showcase hotel discovery, booking flows, account management, and travel-related utilities. The codebase is organized to make component reuse, theming, and future API integrations straightforward.
 
-一个面向酒店与出行服务的 React 单页应用，提供住宿浏览、预订流程、会员账户管理等多类界面模块。
+## Key Features
 
-</div>
+- Modular UI library with 40+ cards, forms, notification containers, and hero sections under `src/components`.
+- Business-focused pages (accommodations, car rentals, account settings, order confirmation, FAQ, and more) under `src/pages`.
+- Individual CSS files per component/page plus a shared `global.css`, making visual tweaks predictable.
+- Client-side routing powered by React Router DOM 6, ready for integration with real backend services.
 
-## ✨ 项目亮点
+## Tech Stack
 
-- **模块化 UI**：`src/components` 下拆分了卡片、表单、通知提醒、精选酒店等 40+ 组件，便于复用与统一视觉。
-- **多业务场景**：`src/pages` 中覆盖住宿、租车、账号设置、订单确认、FAQ 等页面，适合演示完整的酒店服务流程。
-- **响应式样式体系**：所有页面/组件均配有独立 `.css` 文件，可根据设计稿快速微调样式。
-- **React Router 支持**：借助 `react-router-dom` 构建前端路由，为后续接入真实接口或静态部署打下基础。
-
-## 🛠 技术栈
-
-- React 18 + Create React App（`react-scripts`）
+- React 18 with Create React App tooling (`react-scripts`)
 - React Router DOM 6
-- 原子化 CSS 文件 + `global.css`
-- Testing Library & Jest（可选用 `npm test` 运行）
+- CSS modules per component and global utility styles
+- Testing Library + Jest for interaction tests
 
-## 📁 推荐目录结构
+## Project Structure
 
 ```
 public/
-  index.html           # 单页应用入口模板
+  index.html           # SPA HTML template
 src/
-  index.js             # React 入口 + Router 绑定
-  App.js               # 全局路由及布局
-  global.css           # 全局样式与 CSS 变量
-  components/          # 复用组件（卡片、提示、表单…）
-  pages/               # 功能页面（住宿、租车、账户、FAQ…）
+  index.js             # React entry point and router mount
+  App.js               # High-level layout and route definitions
+  global.css           # Shared tokens, resets, typography
+  components/          # Reusable cards, forms, banners, notices
+  pages/               # Feature pages (booking, account, FAQ, etc.)
 ```
 
-## ⚡ 快速开始
+## Getting Started
 
-1. 安装 Node.js ≥ 16（推荐使用 [Node LTS](https://nodejs.org/en)）。
-2. 克隆或下载本仓库，终端定位到项目根目录。
-3. 安装依赖：
+1. Install Node.js 16 or newer.
+2. Clone this repository and navigate to the project root.
+3. Install dependencies:
    ```bash
    npm install
    ```
-4. 启动开发服务器（默认端口 3000）：
+4. Start the development server (default port 3000):
    ```bash
    npm start
    ```
-5. 浏览器打开 `http://localhost:3000` 查看效果，代码修改会自动热更新。
+5. Open http://localhost:3000 and begin iterating; hot reloading is enabled by default.
 
-## 📦 常用脚本
+## Available Scripts
 
-| 命令 | 说明 |
+| Command | Description |
 | --- | --- |
-| `npm start` | 启动开发环境（含热更新） |
-| `npm run build` | 产出压缩后的生产构建到 `build/` |
-| `npm test` | 交互式运行单元测试（Testing Library + Jest） |
-| `npm run eject` | 暴露 CRA 配置（不可逆，谨慎执行） |
+| `npm start` | Launches the development server with hot reload |
+| `npm run build` | Creates an optimized production bundle in `build/` |
+| `npm test` | Runs interactive tests via Jest and Testing Library |
+| `npm run eject` | Exposes CRA configuration (irreversible; use with care) |
 
-## 🔧 配置与定制
+## Configuration and Customization
 
-- **环境变量**：可在根目录创建 `.env`（例如 `REACT_APP_API_BASE_URL`）以注入运行时配置。
-- **静态资源**：放置在 `public/`，通过 `/assets/xxx` 直接引用，或在组件中使用 `process.env.PUBLIC_URL`。
-- **主题与样式**：集中维护于 `src/global.css`，可在此定义 CSS 变量供各组件复用。
+- Environment variables: define `.env` entries such as `REACT_APP_API_BASE_URL` for runtime configuration.
+- Static assets: place files in `public/` and reference them through `/assets/...` or `process.env.PUBLIC_URL`.
+- Theming: manage global colors, spacing, and typography inside `src/global.css` for consistent visual updates.
 
-## 🚀 构建与部署
+## Build and Deployment
 
-1. 运行 `npm run build` 生成生产包。
-2. 将 `build/` 目录部署到任意静态托管平台（GitHub Pages、Vercel、Netlify、Nginx 等）。
-3. 如需与后端联调，可在本地配置代理或使用 `REACT_APP_*` 环境变量控制接口地址。
+1. Run `npm run build` to produce a production-ready bundle.
+2. Deploy the `build/` directory to any static host (GitHub Pages, Netlify, Vercel, Nginx, etc.).
+3. Configure backend API endpoints through environment variables or a proxy when integrating real services.
 
-## 🧪 建议测试项
+## Testing Checklist
 
-- 关键页面的可视化检查（住宿列表、详情、订单确认、FAQ）。
-- 表单交互与输入校验（如 `AddNewCard`, `CheckDate`, `EditProfile` 等）。
-- 导航流程：主页 → 详情 → 预订 → 订单完成。
+- Visual regression passes on key flows (accommodation list, booking details, order confirmation, FAQ).
+- Form validation coverage for modules such as `AddNewCard`, `CheckDate`, and `EditProfile`.
+- Navigation smoke tests across the booking funnel: home -> details -> reservation -> confirmation.
 
-## 🤝 参与贡献
+## Contribution Guide
 
-1. Fork 仓库并创建新分支（`git checkout -b feature/xxx`）。
-2. 提交更改（遵循语义化提交信息）。
-3. 推送到你的 Fork 并发起 Pull Request，描述变更与影响范围。
+1. Fork the repository and create a feature branch (`git checkout -b feature/my-change`).
+2. Implement updates and commit using clear, descriptive messages.
+3. Push to your fork and open a pull request that describes the motivation, implementation details, and testing status.
 
-## 📄 许可证
+## License
 
-当前未显式指定许可证，默认保留所有权利。如果需要开源，请在根目录添加 `LICENSE` 文件并更新本说明。
-
----
-
-如需我协助补充接口文档、设计稿链接或部署配置，欢迎随时提出！
+No explicit license is provided. All rights are currently reserved by the author. Add a LICENSE file if you plan to distribute the project under open-source terms.
