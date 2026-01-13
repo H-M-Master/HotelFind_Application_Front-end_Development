@@ -1,0 +1,341 @@
+.your-assigned-driver-child {
+  position: absolute;
+  top: 744.5px;
+  left: -2px;
+  border-radius: var(--br-sm);
+  width: 381px;
+  height: 73.5px;
+}
+.eta,
+.min {
+  position: absolute;
+}
+.eta {
+  top: 221.7px;
+  left: 27.7px;
+  opacity: 0.5;
+}
+.min {
+  top: 219.7px;
+  left: 53.7px;
+  font-size: var(--font-size-sm);
+}
+.total-price {
+  top: 221.7px;
+  left: 208.7px;
+  opacity: 0.5;
+}
+.div5,
+.line34,
+.total-price {
+  position: absolute;
+}
+.div5 {
+  top: 219.7px;
+  left: 274.7px;
+  font-size: var(--font-size-sm);
+}
+.line34 {
+  top: 208.5px;
+  left: 22px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 331px;
+  height: 1px;
+}
+.rectangle111-icon1,
+.rectangle111-parent {
+  position: absolute;
+  width: 378px;
+  height: 501px;
+}
+.rectangle111-icon1 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.rectangle111-parent {
+  top: 249px;
+  left: -2px;
+}
+.car,
+.language {
+  position: absolute;
+  top: 181.7px;
+  left: 30.7px;
+  opacity: 0.5;
+}
+.language {
+  left: 208.7px;
+}
+.book-a-car2 {
+  position: absolute;
+  top: 49px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.fuzhou-airport1 {
+  position: absolute;
+  top: 98px;
+  left: 145.3px;
+  font-size: var(--font-size-sm);
+}
+.group-icon3 {
+  position: absolute;
+  top: 92.8px;
+  left: 25.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.fuzhou-intercontinental {
+  position: absolute;
+  top: 137px;
+  left: 148.3px;
+  font-size: var(--font-size-sm);
+}
+.group-icon4 {
+  position: absolute;
+  top: 131.8px;
+  left: 25.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.dropoff-location1,
+.pickup-location {
+  position: absolute;
+  top: 138.7px;
+  left: 54.3px;
+  opacity: 0.5;
+}
+.pickup-location {
+  top: 98.7px;
+}
+.english,
+.saloon {
+  position: absolute;
+  top: 179.7px;
+  left: 53.7px;
+  font-size: var(--font-size-sm);
+}
+.english {
+  left: 274.7px;
+}
+.line35 {
+  position: absolute;
+  top: 168.5px;
+  left: 22px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 331px;
+  height: 1px;
+}
+.gaobu-icon17 {
+  position: absolute;
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dibu-icon17 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.car-booking15 {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.unioncarwrie-icon1 {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-parent13,
+.gaobu-group {
+  position: absolute;
+  top: 768.6px;
+  left: 79.8px;
+  width: 65px;
+  height: 36.4px;
+}
+.gaobu-group {
+  height: 100%;
+  width: 100.13%;
+  top: 0;
+  right: -0.13%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  color: var(--color-white);
+}
+.group-2xx-icon,
+.your-assigned-driver-item {
+  position: absolute;
+  top: 284px;
+  left: 21px;
+  width: 317.5px;
+  height: 377.2px;
+}
+.group-2xx-icon {
+  top: 225.5px;
+  left: 306px;
+  width: 56px;
+  height: 56px;
+  cursor: pointer;
+}
+.blackbell-icon9,
+.notifications22 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.blackbell-icon9 {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-parent12 {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.settings18 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.srectangle-232,
+.srectangle-332 {
+  position: absolute;
+  top: 1.3px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-332 {
+  top: 0;
+  left: 7.4px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-2114,
+.srectangle-2213,
+.srectangle-3114,
+.srectangle-3213 {
+  position: absolute;
+  top: 5.6px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-2213,
+.srectangle-3114,
+.srectangle-3213 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-2213,
+.srectangle-3213 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-3213 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.blackset13 {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.settings-parent13 {
+  position: absolute;
+  top: 774.4px;
+  left: 308px;
+  width: 44px;
+  height: 30.6px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.rooms15 {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractwuzi-icon9 {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-parent13 {
+  position: absolute;
+  top: 766.8px;
+  left: 30px;
+  width: 38px;
+  height: 38.3px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.my-profile16 {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.blackpeo-icon13 {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.my-profile-parent13 {
+  position: absolute;
+  top: 769.4px;
+  left: 241.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.your-assigned-driver {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

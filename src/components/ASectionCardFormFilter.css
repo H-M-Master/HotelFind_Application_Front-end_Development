@@ -1,0 +1,79 @@
+.bicon52 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77px;
+  object-fit: cover;
+}
+.bsheraton6 {
+  position: absolute;
+  top: 0;
+  left: 102.8px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  display: inline-block;
+  width: 91.3px;
+  height: 12.8px;
+}
+.bdiv66 {
+  top: 23.5px;
+  left: 116.3px;
+  color: var(--color-lightslategray);
+  width: 22.3px;
+  height: 12.8px;
+}
+.bdiv66,
+.breviews-20,
+.bthe-sheraton-hotels {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.breviews-20 {
+  top: 21.5px;
+  left: 152.8px;
+  color: var(--color-lightslategray);
+  width: 83.3px;
+  height: 12.8px;
+}
+.bthe-sheraton-hotels {
+  top: 42.5px;
+  left: 101.8px;
+  width: 240.8px;
+  height: 12.6px;
+}
+.bspan1 {
+  color: var(--color-black);
+}
+.boff-100 {
+  position: absolute;
+  top: 65.5px;
+  left: 101.8px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 225.3px;
+  height: 12.8px;
+  color: var(--color-goldenrod-200);
+}
+.bstar-icon39 {
+  position: absolute;
+  top: 20.6px;
+  left: 98.6px;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bparent21 {
+  position: absolute;
+  top: 420.4px;
+  left: 23.4px;
+  width: 342.6px;
+  height: 79px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

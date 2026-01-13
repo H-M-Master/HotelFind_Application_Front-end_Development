@@ -1,0 +1,649 @@
+.zuhedi-icon5 {
+  position: absolute;
+  height: 9.05%;
+  width: 101.6%;
+  top: 91.69%;
+  right: -1.07%;
+  bottom: -0.74%;
+  left: -0.53%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.find-room-finish-child {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.find-room-finish-item {
+  position: absolute;
+  height: 0.31%;
+  width: 101.33%;
+  top: 76.48%;
+  right: -2.4%;
+  bottom: 23.21%;
+  left: 1.07%;
+  background-color: var(--color-aliceblue);
+}
+.best-places5 {
+  position: absolute;
+  height: 1.97%;
+  width: 28.8%;
+  top: 62.68%;
+  left: 6.13%;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  text-align: left;
+  display: inline-block;
+  opacity: 0.5;
+}
+.air-conditioned5,
+.best-hotels5,
+.fan5 {
+  position: absolute;
+  top: 50.99%;
+  font-size: var(--font-size-lg);
+  text-align: left;
+}
+.fan5 {
+  left: 12.27%;
+  opacity: 0.3;
+}
+.air-conditioned5,
+.best-hotels5 {
+  left: 45.33%;
+}
+.best-hotels5 {
+  height: 1.97%;
+  width: 28.8%;
+  top: 79.06%;
+  left: 6.13%;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  display: inline-block;
+  opacity: 0.5;
+}
+.find-room-finish-inner {
+  position: absolute;
+  height: 6.9%;
+  width: 94.93%;
+  top: 42.49%;
+  right: 2.93%;
+  bottom: 50.62%;
+  left: 2.13%;
+}
+.find-room-finish-child1 {
+  position: absolute;
+  top: 621px;
+  left: 4px;
+  background-color: var(--color-aliceblue);
+  width: 380px;
+  height: 2.5px;
+}
+.three-lanes-and5 {
+  position: absolute;
+  top: 596px;
+  left: 23px;
+  color: inherit;
+  display: inline-block;
+  width: 92px;
+  height: 13px;
+  text-decoration: none;
+}
+.drum-mo5,
+.forest-park5,
+.west-lake-park5 {
+  position: absolute;
+  top: 595.9px;
+  left: 127.6px;
+}
+.drum-mo5,
+.forest-park5 {
+  left: 237.3px;
+}
+.drum-mo5 {
+  left: 325.7px;
+}
+.hilton5,
+.intercontinental5,
+.kempinski5,
+.sheraton5 {
+  position: absolute;
+  top: 728.9px;
+  left: 24.2px;
+  display: inline-block;
+  width: 91.3px;
+  height: 12.8px;
+}
+.hilton5,
+.kempinski5,
+.sheraton5 {
+  left: 131.7px;
+  width: 73.8px;
+}
+.hilton5,
+.sheraton5 {
+  left: 232.3px;
+  width: 70.2px;
+}
+.hilton5 {
+  left: 331.7px;
+  width: 54.8px;
+}
+.icon40,
+.icon41,
+.icon42,
+.icon43,
+.icon44,
+.icon45,
+.icon46,
+.icon47 {
+  position: absolute;
+  top: 531.9px;
+  left: 23.9px;
+  border-radius: var(--br-6xs);
+  width: 91.9px;
+  height: 60.1px;
+  object-fit: cover;
+}
+.icon41,
+.icon42,
+.icon43,
+.icon44,
+.icon45,
+.icon46,
+.icon47 {
+  left: 122.7px;
+}
+.icon42,
+.icon43,
+.icon44,
+.icon45,
+.icon46,
+.icon47 {
+  left: 221.4px;
+}
+.icon43,
+.icon44,
+.icon45,
+.icon46,
+.icon47 {
+  top: 532px;
+  left: 321px;
+  width: 54px;
+  height: 60px;
+}
+.icon44,
+.icon45,
+.icon46,
+.icon47 {
+  top: 665px;
+  left: 23px;
+  width: 91.9px;
+  height: 60.1px;
+}
+.icon45,
+.icon46,
+.icon47 {
+  top: 664.9px;
+  left: 122.7px;
+}
+.icon46,
+.icon47 {
+  left: 221.4px;
+}
+.icon47 {
+  top: 665px;
+  left: 321px;
+  width: 54px;
+  height: 60px;
+}
+.find-room5 {
+  position: absolute;
+  top: 6.03%;
+  left: 4.53%;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.pass5,
+.rectangle2,
+.stay5 {
+  position: absolute;
+  top: 6.77%;
+}
+.stay5 {
+  left: 50.6%;
+  opacity: 0.3;
+}
+.pass5,
+.rectangle2 {
+  left: 74.3%;
+}
+.rectangle2 {
+  height: 0.78%;
+  width: 5.86%;
+  top: 7.57%;
+  right: 32.81%;
+  bottom: 91.65%;
+  left: 61.33%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gainsboro);
+}
+.ellipse {
+  position: absolute;
+  height: 2.56%;
+  width: 5.54%;
+  top: 6.69%;
+  right: 28.6%;
+  bottom: 90.75%;
+  left: 65.86%;
+  border-radius: 50%;
+  background-color: var(--color-mediumseagreen);
+}
+.gaobu-icon6,
+.union-icon2 {
+  position: absolute;
+  height: 2.35%;
+  width: 5.65%;
+  top: 7.01%;
+  right: 3.86%;
+  bottom: 90.64%;
+  left: 90.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gaobu-icon6 {
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+}
+.dibu-icon6 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.rooms6 {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractroomwrite-icon5 {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-parent4 {
+  position: absolute;
+  top: 766.8px;
+  left: 28px;
+  width: 38px;
+  height: 38.3px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.blackbell-icon5,
+.notifications7 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.blackbell-icon5 {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-parent4 {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.landi1-icon5,
+.landi12-icon5 {
+  position: absolute;
+  height: 4.58%;
+  width: 45.67%;
+  top: 12.55%;
+  right: 49.53%;
+  bottom: 82.87%;
+  left: 4.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.landi1-icon5 {
+  right: 3.86%;
+  left: 50.47%;
+}
+.hotels5,
+.villas5 {
+  position: absolute;
+  top: 13.55%;
+  left: 20.59%;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.villas5 {
+  left: 67.46%;
+  color: var(--color-dodgerblue);
+}
+.find-room-parent3 {
+  position: absolute;
+  height: 100%;
+  width: 100.13%;
+  top: 0;
+  right: -0.13%;
+  bottom: 0;
+  left: 0;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.find-room-finish-child2 {
+  position: absolute;
+  top: 163.9px;
+  left: 16px;
+  width: 25.4px;
+  height: 215.9px;
+  object-fit: cover;
+}
+.line24 {
+  position: absolute;
+  height: 3.33%;
+  width: 100.29%;
+  top: 98.33%;
+  right: -0.15%;
+  bottom: -1.67%;
+  left: -0.15%;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+}
+.adults-2-children1 {
+  position: absolute;
+  top: 0;
+  left: 10.2%;
+  white-space: pre-wrap;
+}
+.rectanglexia-icon15 {
+  position: absolute;
+  height: 47%;
+  width: 4.11%;
+  top: 0.33%;
+  right: 1.81%;
+  bottom: 52.67%;
+  left: 94.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.line-parent5 {
+  position: absolute;
+  height: 3.69%;
+  width: 91.47%;
+  top: 44.58%;
+  right: 4.27%;
+  bottom: 51.72%;
+  left: 4.27%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.line25 {
+  position: absolute;
+  top: 98.8px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.rectanglexia-icon16 {
+  position: absolute;
+  top: 67.8px;
+  left: 322.7px;
+  width: 14.1px;
+  height: 14.1px;
+  object-fit: contain;
+}
+.line26 {
+  position: absolute;
+  top: 29.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.july-2019-1000am2 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+}
+.rectanglexia-icon17 {
+  position: absolute;
+  top: 1.8px;
+  left: 322.7px;
+  width: 14.1px;
+  height: 14.1px;
+  object-fit: contain;
+}
+.august-2019-11002 {
+  position: absolute;
+  top: 66.3px;
+  left: 32px;
+}
+.line-parent6,
+.line-parent7 {
+  position: absolute;
+  top: 227.3px;
+  left: 16px;
+  width: 343px;
+  height: 99.3px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.line-parent7 {
+  top: 162px;
+  height: 30px;
+}
+.search1-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 341px;
+  height: 43px;
+}
+.search5 {
+  position: absolute;
+  top: 12.5px;
+  left: 142.5px;
+}
+.search1-parent3,
+.view-all10,
+.view-all11 {
+  position: absolute;
+  top: 447.5px;
+  left: 17px;
+  width: 341px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.view-all10,
+.view-all11 {
+  height: 1.8%;
+  width: 21.97%;
+  top: 62.68%;
+  left: 73.76%;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  display: inline-block;
+}
+.view-all11 {
+  top: 79.06%;
+}
+.find-room-finish-child3 {
+  position: absolute;
+  height: 2.71%;
+  width: 5.87%;
+  top: 50.99%;
+  right: 56%;
+  bottom: 46.31%;
+  left: 38.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.car-booking6 {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.blackcar-icon5 {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-parent4 {
+  position: absolute;
+  top: 768.6px;
+  left: 81.8px;
+  width: 65px;
+  height: 36.4px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.my-profile6 {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.blackpeo-icon5 {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.my-profile-parent4 {
+  position: absolute;
+  top: 769.4px;
+  left: 241.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.settings7 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.srectangle-27,
+.srectangle-37 {
+  position: absolute;
+  top: 1.3px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-37 {
+  top: 0;
+  left: 7.4px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-215,
+.srectangle-225,
+.srectangle-315,
+.srectangle-325 {
+  position: absolute;
+  top: 5.6px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-225,
+.srectangle-315,
+.srectangle-325 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-225,
+.srectangle-325 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-325 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.blackset5 {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.huisedot5,
+.settings-parent4 {
+  position: absolute;
+  cursor: pointer;
+}
+.settings-parent4 {
+  top: 774.4px;
+  left: 308px;
+  width: 44px;
+  height: 30.6px;
+  color: var(--color-midnightblue);
+}
+.huisedot5 {
+  height: 2.71%;
+  width: 5.87%;
+  top: 50.99%;
+  right: 89.33%;
+  bottom: 46.31%;
+  left: 4.8%;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+}
+.find-room-finish {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

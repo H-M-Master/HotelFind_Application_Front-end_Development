@@ -1,0 +1,154 @@
+.brectangle-icon2 {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 375.5px;
+  height: 257.5px;
+  object-fit: cover;
+}
+.bline35,
+.bline36,
+.bline39 {
+  position: absolute;
+  top: 321px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bline36,
+.bline39 {
+  top: 874px;
+  left: -1px;
+}
+.bline39 {
+  top: 514px;
+  left: -2px;
+}
+.bat-the-same,
+.bfuzhou-national-forest {
+  font-size: var(--font-size-xs);
+  line-height: 145.19%;
+  font-weight: 300;
+  width: 337px;
+}
+.bfuzhou-national-forest {
+  position: absolute;
+  top: 357px;
+  left: 18px;
+  display: inline-block;
+  height: 153px;
+}
+.bat-the-same {
+  top: 542px;
+  left: 13px;
+  height: 432px;
+}
+.bat-the-same,
+.bdescription,
+.bthe-park-has {
+  position: absolute;
+  display: inline-block;
+}
+.bthe-park-has {
+  top: 838px;
+  left: 12px;
+  font-size: var(--font-size-xs);
+  line-height: 145.19%;
+  font-weight: 300;
+  width: 337px;
+  height: 432px;
+}
+.bdescription {
+  top: 333.5px;
+  left: 113.9px;
+  text-transform: uppercase;
+  width: 148.6px;
+}
+.binfrastructure1 {
+  margin: 0;
+}
+.binfrastructure {
+  position: absolute;
+  top: 522px;
+  left: 128px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 117px;
+  height: 21px;
+}
+.bline40 {
+  position: absolute;
+  top: 806px;
+  left: -3px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bdevelopment-prospect {
+  position: absolute;
+  top: 814px;
+  left: 100px;
+  text-transform: uppercase;
+}
+.bpawprint-icon {
+  position: absolute;
+  height: 1.15%;
+  width: 2.93%;
+  top: 58.63%;
+  right: 54.67%;
+  bottom: 40.22%;
+  left: 42.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bphoto-121 {
+  position: absolute;
+  top: 10.1px;
+  left: 52px;
+  display: inline-block;
+  width: 113px;
+}
+.bgroup-child2,
+.bphoto-12-parent {
+  position: absolute;
+  width: 166px;
+  height: 37.3px;
+}
+.bgroup-child2 {
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  border: 2px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+}
+.bphoto-12-parent {
+  top: 269.9px;
+  left: 190px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-dodgerblue);
+}
+.bfanhui1-icon9 {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bshenling1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1100px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

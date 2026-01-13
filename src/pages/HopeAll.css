@@ -1,0 +1,391 @@
+.bgobu-icon6,
+.bzuhedi-icon {
+  position: absolute;
+  height: 4.58%;
+  width: 98.43%;
+  top: 0;
+  right: 1.57%;
+  bottom: 95.42%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bzuhedi-icon {
+  height: 8.99%;
+  top: 91.01%;
+  right: 0;
+  width: 375.5px;
+  bottom: 0;
+  border-radius: var(--br-sm);
+}
+.bdibu-icon6 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.brooms {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.bsubtractroomwrite-icon {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.bgaobu-container,
+.brooms-parent {
+  position: absolute;
+  top: 766.8px;
+  left: 28px;
+  width: 38px;
+  height: 38.3px;
+}
+.bgaobu-container {
+  height: 100.74%;
+  width: 101.6%;
+  top: 0;
+  right: -1.6%;
+  bottom: -0.74%;
+  left: 0;
+  font-size: var(--font-size-xs);
+}
+.bhotels {
+  margin: 0;
+}
+.babidjan-200-hotels {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  line-height: 142.19%;
+}
+.bhotels-abidjan-200-container {
+  position: absolute;
+  top: 47px;
+  left: 44px;
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.bsearch1,
+.bshousuokuan1 {
+  position: absolute;
+  top: 9.5px;
+  left: 38.3px;
+}
+.bshousuokuan1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 343px;
+  height: 34px;
+}
+.bcuowu-icon1,
+.bshousuo-icon1 {
+  position: absolute;
+  top: 5.9px;
+  left: 7.3px;
+  width: 22.8px;
+  height: 24.3px;
+  object-fit: contain;
+}
+.bcuowu-icon1 {
+  top: 7.6px;
+  left: 316.9px;
+  width: 21.6px;
+  height: 21.6px;
+}
+.bshousuoyitioa1 {
+  position: absolute;
+  top: 98px;
+  left: 16px;
+  width: 343px;
+  height: 34px;
+  text-align: left;
+  color: var(--color-black);
+}
+.bamenities,
+.bfilter-by,
+.bsort-by {
+  position: absolute;
+  top: 151.5px;
+  color: var(--color-black);
+}
+.bamenities {
+  left: 18px;
+  text-align: left;
+}
+.bfilter-by,
+.bsort-by {
+  left: 162px;
+}
+.bsort-by {
+  left: 289px;
+  text-align: right;
+}
+.brectanglexia-icon10,
+.brectanglexia-icon11,
+.brectanglexia-icon9 {
+  position: absolute;
+  top: 149.6px;
+  left: 89.7px;
+  width: 14.1px;
+  height: 14.1px;
+  object-fit: contain;
+}
+.brectanglexia-icon10,
+.brectanglexia-icon11 {
+  left: 221.7px;
+}
+.brectanglexia-icon11 {
+  left: 342.7px;
+  cursor: pointer;
+}
+.bline73 {
+  position: absolute;
+  top: 179.5px;
+  left: -1px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bline74,
+.bline75,
+.bline76,
+.bline77,
+.bline78 {
+  position: absolute;
+  top: 290px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 378px;
+  height: 1px;
+}
+.bline75,
+.bline76,
+.bline77,
+.bline78 {
+  top: 404px;
+}
+.bline76,
+.bline77,
+.bline78 {
+  top: 517px;
+}
+.bline77,
+.bline78 {
+  top: 634px;
+}
+.bline78 {
+  top: 634.5px;
+  left: -2.5px;
+}
+.brectangleviewall-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 103.8px;
+  height: 21.7px;
+}
+.bbook-now {
+  position: absolute;
+  top: 2.4px;
+  left: 2.2px;
+  display: inline-block;
+  width: 99.5px;
+  height: 16.9px;
+}
+.bgroup504 {
+  top: 368.8px;
+  cursor: pointer;
+}
+.bfanhui-icon4,
+.bgroup501,
+.bgroup502,
+.bgroup503,
+.bgroup504 {
+  position: absolute;
+  left: 250.7px;
+  width: 103.8px;
+  height: 21.7px;
+}
+.bgroup503 {
+  top: 481.8px;
+  cursor: pointer;
+}
+.bfanhui-icon4,
+.bgroup501,
+.bgroup502 {
+  top: 597.8px;
+}
+.bfanhui-icon4,
+.bgroup501 {
+  top: 254.8px;
+  cursor: pointer;
+}
+.bfanhui-icon4 {
+  top: 53.1px;
+  left: 17.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+.bblackbell-icon,
+.bnotifications {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.bblackbell-icon {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bnotifications-parent {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.bcar-booking {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.bblackcar-icon {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.bcar-booking-parent {
+  position: absolute;
+  top: 768.6px;
+  left: 81.8px;
+  width: 65px;
+  height: 36.4px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.bmy-profile {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.bblackpeo-icon {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.bmy-profile-parent {
+  position: absolute;
+  top: 769.4px;
+  left: 241.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.bsettings,
+.bsrectangle-2 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.bsrectangle-2 {
+  top: 1.3px;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.bsrectangle-21,
+.bsrectangle-22,
+.bsrectangle-3,
+.bsrectangle-31,
+.bsrectangle-32 {
+  position: absolute;
+  top: 0;
+  left: 7.4px;
+  background-color: var(--color-midnightblue);
+  width: 2px;
+  height: 4.3px;
+}
+.bsrectangle-21,
+.bsrectangle-22,
+.bsrectangle-31,
+.bsrectangle-32 {
+  top: 5.6px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.bsrectangle-22,
+.bsrectangle-31,
+.bsrectangle-32 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.bsrectangle-22,
+.bsrectangle-32 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.bsrectangle-32 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.bblackset,
+.bsettings-parent {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.bsettings-parent {
+  top: 774.4px;
+  left: 308px;
+  width: 44px;
+  height: 30.6px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.bhotels-list {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.a82x-icon {
+  Top:535.4px;
+  width:326.4px;
+}

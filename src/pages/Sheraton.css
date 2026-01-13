@@ -1,0 +1,228 @@
+.brectangle {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  background: linear-gradient(180deg, #00ff94, #0000fe);
+  width: 380px;
+  height: 816px;
+  display: none;
+}
+.benter-promo-code,
+.bguest-info,
+.bpromo-code,
+.broom-info {
+  position: absolute;
+  top: 275.5px;
+  left: 20.9px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 148.6px;
+}
+.benter-promo-code,
+.bguest-info,
+.bpromo-code {
+  top: 490.5px;
+}
+.benter-promo-code,
+.bpromo-code {
+  top: 630.5px;
+}
+.benter-promo-code {
+  top: 704.5px;
+  left: 35.9px;
+}
+.bnoof-rooms {
+  margin: 0;
+}
+.bnoof-rooms-room-container {
+  top: 305.5px;
+  left: 33.2px;
+  color: var(--color-gray-100);
+  width: 96.8px;
+}
+.bair-conditioned-3-container,
+.bnoof-rooms-room-container,
+.btotal {
+  position: absolute;
+  line-height: 200%;
+  display: inline-block;
+}
+.btotal {
+  top: 436.5px;
+  left: 33.2px;
+  color: var(--color-gray-100);
+  width: 77.6px;
+}
+.bair-conditioned-3-container {
+  top: 305.5px;
+  left: 112px;
+  text-align: right;
+  width: 234.8px;
+}
+.bif-you-have,
+.bname-email-mobile-container {
+  position: absolute;
+  top: 515.5px;
+  left: 33.2px;
+  line-height: 200%;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 106.8px;
+}
+.bif-you-have {
+  top: 647.5px;
+  left: 23.2px;
+  font-size: var(--font-size-xs);
+  width: 305.8px;
+}
+.bb,
+.bjohn-smith-johnsmithgmailcom-container {
+  position: absolute;
+  top: 515.5px;
+  left: 112px;
+  line-height: 200%;
+  text-align: right;
+  display: inline-block;
+  width: 234.8px;
+}
+.bb {
+  top: 436.5px;
+  left: 303px;
+  width: 45.8px;
+}
+.bline,
+.bline1,
+.bline2,
+.bline3 {
+  position: absolute;
+  top: 429.5px;
+  left: -1.5px;
+  border-top: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 378px;
+  height: 1px;
+}
+.bline1,
+.bline2,
+.bline3 {
+  top: 471.5px;
+}
+.bline2,
+.bline3 {
+  top: 612.5px;
+}
+.bline3 {
+  top: 740.5px;
+}
+.bsearch1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 341px;
+  height: 43px;
+}
+.bconfirm-order,
+.bsearch1-parent {
+  position: absolute;
+  top: 12.5px;
+  left: 115.5px;
+}
+.bsearch1-parent {
+  top: 755.5px;
+  left: 17px;
+  width: 341px;
+  height: 43px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.bsheraton-child {
+  position: absolute;
+  top: 728.5px;
+  left: 36px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 303px;
+  height: 1px;
+  opacity: 0.5;
+}
+.bdiv,
+.bpeople-liked-this {
+  position: absolute;
+  top: 2.9px;
+  left: 17.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 22.3px;
+  height: 12.8px;
+}
+.bpeople-liked-this {
+  top: 20.9px;
+  left: 2.2px;
+  font-weight: 300;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bstar-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bfujian-fuzhou {
+  position: absolute;
+  top: 5.5px;
+  left: 23.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bgroup-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.bfujian-fuzhou-parent,
+.bparent {
+  position: absolute;
+  top: 10.3px;
+  left: 155.8px;
+  width: 170.3px;
+  height: 21.7px;
+}
+.bparent {
+  top: 211.5px;
+  left: 24px;
+  width: 326px;
+  height: 33px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.bfanhui1-icon {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bsheraton {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 815px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

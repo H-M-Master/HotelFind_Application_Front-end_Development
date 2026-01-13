@@ -1,0 +1,32 @@
+.bsubtract1212-icon {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  opacity: 0.2;
+}
+.bsubtract123123-icon {
+  position: relative;
+  width: 63.6px;
+  height: 66px;
+}
+.bdiv62 {
+  position: absolute;
+  height: 37.12%;
+  width: 43.94%;
+  top: 29.55%;
+  left: 29.55%;
+  line-height: 145.19%;
+  font-weight: 300;
+  display: inline-block;
+}
+.bcomponent {
+  position: absolute;
+  top: 470px;
+  left: 20px;
+  width: 66px;
+  height: 66px;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

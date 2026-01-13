@@ -1,0 +1,347 @@
+.bdiv36,
+.bfujian-fuzhou14 {
+  position: absolute;
+  top: 287.5px;
+  left: 51.2px;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bdiv36 {
+  top: 325.3px;
+}
+.bfujian-icon {
+  position: absolute;
+  top: 281.9px;
+  left: 24.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.bline79 {
+  position: absolute;
+  top: 51.1px;
+  left: 1px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bline-icon {
+  position: absolute;
+  top: 387.1px;
+  left: 2px;
+  max-height: 100%;
+  width: 377px;
+}
+.bsheraton-fuzhou-hotel2 {
+  margin: 0;
+}
+.bsheraton-fuzhou-hotel-container1 {
+  position: absolute;
+  top: 84.1px;
+  left: 21px;
+  font-size: var(--font-size-xs);
+  line-height: 145.19%;
+  font-weight: 300;
+  text-align: center;
+  display: inline-block;
+  width: 337px;
+  height: 88px;
+}
+.bhotel-facilities {
+  position: absolute;
+  top: 174.6px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 380px;
+  height: 92px;
+  opacity: 0.5;
+}
+.bfree-wi-fi {
+  position: absolute;
+  top: 241.1px;
+  left: 22px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  text-align: center;
+}
+.bwifi11-icon {
+  position: absolute;
+  top: 214.6px;
+  left: 44.5px;
+  width: 26.8px;
+  height: 22px;
+}
+.bfitness-center {
+  position: absolute;
+  top: 241.1px;
+  left: 99.3px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  text-align: center;
+}
+.bduanlian-icon {
+  position: absolute;
+  top: 216.6px;
+  left: 118.2px;
+  width: 38.3px;
+  height: 19.9px;
+}
+.bfree-breakfast {
+  position: absolute;
+  top: 244.6px;
+  left: 199.7px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  text-align: center;
+}
+.bbreakfast-icon,
+.bfoodnay-icon {
+  position: absolute;
+  top: 207.8px;
+  left: 219.7px;
+  width: 36px;
+  height: 28.8px;
+}
+.bbreakfast-icon {
+  top: 464.1px;
+  left: 20.1px;
+  width: 15.2px;
+  height: 12.1px;
+}
+.bkid-friendly {
+  position: absolute;
+  top: 246.6px;
+  left: 300px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  text-align: center;
+}
+.bbaby-icon,
+.blandi41-icon {
+  position: absolute;
+  top: 205.6px;
+  left: 315.5px;
+  width: 31px;
+  height: 31px;
+}
+.blandi41-icon {
+  top: 0;
+  left: 18px;
+  width: 115.5px;
+  height: 37.2px;
+}
+.breview-10611 {
+  position: absolute;
+  top: 10.6px;
+  left: 35.5px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 82.5px;
+}
+.bbaidizhongjian3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 2px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 114px;
+  height: 37.3px;
+}
+.bphoto-106 {
+  position: absolute;
+  top: 10.6px;
+  left: 24.4px;
+  display: inline-block;
+  width: 67.6px;
+}
+.bbaidizhongjian-parent1 {
+  position: absolute;
+  top: 0;
+  left: 133px;
+  width: 114px;
+  height: 37.3px;
+  cursor: pointer;
+  color: var(--color-dodgerblue);
+}
+.bhotel-description,
+.bhotel-facilities1 {
+  left: 116.9px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 148.6px;
+}
+.bhotel-description {
+  position: absolute;
+  top: 63.6px;
+  display: inline-block;
+}
+.bhotel-facilities1 {
+  top: 182.6px;
+}
+.bhotel-facilities1,
+.bnear-by-246,
+.brating-reviews1 {
+  position: absolute;
+  display: inline-block;
+}
+.brating-reviews1 {
+  top: 397.1px;
+  left: 115px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 148.6px;
+}
+.bnear-by-246 {
+  top: 10.6px;
+  left: 18.2px;
+  width: 77.6px;
+}
+.bbaidi433,
+.bnear-by-24-parent1 {
+  position: absolute;
+  top: 0;
+  width: 114px;
+  height: 37.3px;
+}
+.bbaidi433 {
+  left: 0;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  border: 2px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+}
+.bnear-by-24-parent1 {
+  left: 245px;
+  cursor: pointer;
+  color: var(--color-dodgerblue);
+}
+.bphone-icon {
+  position: absolute;
+  top: 325px;
+  left: 30.6px;
+  width: 4.6px;
+  height: 16.6px;
+  object-fit: contain;
+}
+.bcheckin-12-pm {
+  position: absolute;
+  top: 363.2px;
+  left: 56px;
+}
+.bgreat-breakfast,
+.bgreat-dining,
+.bgreat-pool,
+.bgreat-rooms,
+.bluxurious-vibe,
+.bpet-friendly {
+  position: absolute;
+  top: 424.2px;
+  left: 44px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+}
+.bgreat-breakfast,
+.bgreat-pool,
+.bgreat-rooms,
+.bluxurious-vibe,
+.bpet-friendly {
+  top: 464.2px;
+}
+.bgreat-pool,
+.bgreat-rooms,
+.bluxurious-vibe,
+.bpet-friendly {
+  top: 424.2px;
+  left: 166px;
+}
+.bgreat-pool,
+.bgreat-rooms,
+.bluxurious-vibe {
+  top: 464.2px;
+}
+.bgreat-rooms,
+.bluxurious-vibe {
+  top: 424.2px;
+  left: 281px;
+}
+.bluxurious-vibe {
+  top: 464.2px;
+}
+.bcheckout-11-am {
+  position: absolute;
+  top: 363.2px;
+  left: 255px;
+}
+.bunion-icon6 {
+  position: relative;
+  width: 15.5px;
+  height: 16.5px;
+}
+.bpawprint-icon1 {
+  position: absolute;
+  height: 2.82%;
+  width: 2.89%;
+  top: 88.27%;
+  right: 57.63%;
+  bottom: 8.91%;
+  left: 39.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bdining-table-icon,
+.bswimming-icon {
+  position: absolute;
+  top: 462.1px;
+  left: 148px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.bdining-table-icon {
+  top: 415.1px;
+  left: 18px;
+  width: 21px;
+  height: 22px;
+  object-fit: contain;
+}
+.bbed-icon1,
+.bdiamond-icon {
+  position: absolute;
+  width: 15px;
+  overflow: hidden;
+}
+.bbed-icon1 {
+  top: 421.1px;
+  left: 261px;
+  height: 15px;
+  object-fit: contain;
+}
+.bdiamond-icon {
+  top: 460.1px;
+  left: 263px;
+  height: 16px;
+}
+.bview-all5 {
+  position: absolute;
+  height: 3.05%;
+  width: 21.68%;
+  top: 83.04%;
+  left: 72.89%;
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  display: inline-block;
+}
+.bfujian-fuzhou-parent11 {
+  position: absolute;
+  top: 269.9px;
+  left: -3px;
+  width: 380px;
+  height: 478.2px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

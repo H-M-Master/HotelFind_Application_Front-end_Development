@@ -1,0 +1,118 @@
+.service3 {
+  position: absolute;
+  top: 49.3px;
+  left: 4.4px;
+  font-weight: 300;
+}
+.lusei-icon,
+.service-parent1 {
+  position: absolute;
+  top: 0;
+  width: 46.8px;
+}
+.lusei-icon {
+  left: 0;
+  border-radius: var(--br-16xl);
+  height: 46.3px;
+}
+.service-parent1 {
+  left: 184px;
+  height: 63.3px;
+  color: var(--color-black);
+}
+.group-child45 {
+  position: absolute;
+  height: 31.6%;
+  width: 6.22%;
+  top: 22.12%;
+  right: 32.26%;
+  bottom: 46.29%;
+  left: 61.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vip3 {
+  position: absolute;
+  top: 49.3px;
+  left: 14.4px;
+  font-weight: 300;
+}
+.hamburger-icon3 {
+  position: absolute;
+  top: 8.3px;
+  left: 9.8px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.vip-parent1 {
+  position: absolute;
+  top: 0;
+  left: 275px;
+  width: 46.8px;
+  height: 63.3px;
+  cursor: pointer;
+}
+.account3 {
+  position: absolute;
+  top: 49.3px;
+  left: 1.4px;
+  font-weight: 300;
+}
+.account-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 46.8px;
+  height: 63.3px;
+  cursor: pointer;
+}
+.group-child46 {
+  position: absolute;
+  height: 40.28%;
+  width: 48.5%;
+  top: 15.8%;
+  right: 25.85%;
+  bottom: 43.92%;
+  left: 25.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent10 {
+  position: absolute;
+  top: 0;
+  left: 93px;
+  width: 46.8px;
+  height: 63.3px;
+}
+.booking3 {
+  position: absolute;
+  top: 49.3px;
+  left: 2px;
+  font-weight: 300;
+}
+.group-child47 {
+  position: absolute;
+  height: 31.6%;
+  width: 4.97%;
+  top: 20.54%;
+  right: 90.37%;
+  bottom: 47.87%;
+  left: 4.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent9 {
+  position: absolute;
+  top: 148px;
+  left: 28px;
+  width: 321.8px;
+  height: 63.3px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightsteelblue);
+  font-family: var(--font-roboto);
+}

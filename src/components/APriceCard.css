@@ -1,0 +1,72 @@
+.bicon51 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77px;
+  object-fit: cover;
+}
+.bdiv65,
+.bkempinski3,
+.breviews-1501 {
+  position: absolute;
+  display: inline-block;
+  height: 12.8px;
+}
+.bkempinski3 {
+  top: 0;
+  left: 102.6px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  width: 91.3px;
+}
+.bdiv65,
+.breviews-1501 {
+  top: 23.5px;
+  left: 116.1px;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+  width: 22.3px;
+}
+.breviews-1501 {
+  top: 21.5px;
+  left: 152.6px;
+  width: 83.3px;
+}
+.bb12,
+.bfuzhou-city-aparthotel {
+  position: absolute;
+  left: 101.6px;
+  display: inline-block;
+  width: 225.3px;
+}
+.bfuzhou-city-aparthotel {
+  top: 42.5px;
+  font-weight: 300;
+  height: 13.6px;
+}
+.bb12 {
+  top: 65.5px;
+  font-size: var(--font-size-sm);
+  height: 12.8px;
+}
+.bstar-icon38 {
+  position: absolute;
+  top: 20.6px;
+  left: 98.3px;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bparent20 {
+  position: absolute;
+  top: 306.4px;
+  left: 23.7px;
+  width: 326.8px;
+  height: 79px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

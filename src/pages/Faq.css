@@ -1,0 +1,255 @@
+.arectangle1 {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  background: linear-gradient(180deg, #00ff94, #0000fe);
+  width: 380px;
+  height: 816px;
+  display: none;
+}
+
+.abeijing-shezi {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25) inset;
+  width: 378px;
+  height: 709px;
+  opacity: 0.5;
+}
+
+.afaq-child {
+  position: absolute;
+  top: 125px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 84px;
+}
+
+.ado-i-have {
+  position: absolute;
+  top: 139.5px;
+  left: 36px;
+  opacity: 0.5;
+}
+
+.ano-our-mobile {
+  margin: 0;
+}
+
+.ano-our-mobile-container {
+  position: absolute;
+  top: 162.5px;
+  left: 36px;
+}
+
+.arectanglexia-icon {
+  position: absolute;
+  top: 132.1px;
+  left: 322.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+
+.afaq-item {
+  position: absolute;
+  top: 223px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 45px;
+}
+
+.ahow-do-i {
+  position: absolute;
+  top: 237.5px;
+  left: 36px;
+}
+
+.arectangleyou-icon {
+  position: absolute;
+  top: 236.4px;
+  left: 322.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+
+.afaq-inner {
+  position: absolute;
+  top: 281px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 45px;
+}
+
+.awhat-features-does {
+  position: absolute;
+  top: 295.5px;
+  left: 36px;
+}
+
+.arectangleyou-icon1 {
+  position: absolute;
+  top: 294.4px;
+  left: 322.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+
+.arectangle-div {
+  position: absolute;
+  top: 338px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 45px;
+}
+
+.ais-the-mobile {
+  position: absolute;
+  top: 352.5px;
+  left: 36px;
+}
+
+.arectangleyou-icon2 {
+  position: absolute;
+  top: 351.4px;
+  left: 322.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+
+.afaq-child1 {
+  position: absolute;
+  top: 394px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 45px;
+}
+
+.ahow-current-is {
+  position: absolute;
+  top: 408.5px;
+  left: 36px;
+}
+
+.arectangleyou-icon3 {
+  position: absolute;
+  top: 407.4px;
+  left: 322.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+
+.afaq-child2 {
+  position: absolute;
+  top: 450px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 45px;
+}
+
+.ahow-do-i1 {
+  position: absolute;
+  top: 457.5px;
+  left: 36px;
+  display: inline-block;
+  width: 271px;
+  height: 34.5px;
+}
+
+.arectangleyou-icon4 {
+  position: absolute;
+  top: 463.4px;
+  left: 322.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+
+.afaq1,
+.amyprofile {
+  position: absolute;
+  top: 49px;
+  left: 17px;
+  font-weight: 500;
+}
+
+.afaq1 {
+  top: 50px;
+  left: 56px;
+  color: var(--color-black);
+}
+
+.agaobu-icon2 {
+  position: absolute;
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.adibu-icon1 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+
+.amyprofile-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375.5px;
+  height: 812px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+
+.afanhui-icon2 {
+  position: absolute;
+  top: 53.1px;
+  left: 17.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.afaq {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

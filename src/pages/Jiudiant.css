@@ -1,0 +1,266 @@
+.bgaodu2-icon,
+.bicon4 {
+  position: absolute;
+  top: 0;
+}
+.bicon4 {
+  left: 0.5px;
+  width: 375.5px;
+  height: 257.5px;
+  object-fit: cover;
+}
+.bgaodu2-icon {
+  height: 14.56%;
+  width: 99.73%;
+  right: 0.27%;
+  bottom: 85.44%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bfanhui1-icon4 {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bkempinski {
+  position: absolute;
+  top: 38px;
+  left: 41px;
+  font-weight: 500;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.81);
+}
+.bparent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 376px;
+  height: 257.5px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.brectangle2 {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  background: linear-gradient(180deg, #00ff94, #0000fe);
+  width: 380px;
+  height: 816px;
+  display: none;
+}
+.benter-promo-code1,
+.bguest-info1,
+.bpromo-code1,
+.broom-info1 {
+  position: absolute;
+  top: 275.5px;
+  left: 20.9px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 148.6px;
+}
+.benter-promo-code1,
+.bguest-info1,
+.bpromo-code1 {
+  top: 490.5px;
+}
+.benter-promo-code1,
+.bpromo-code1 {
+  top: 630.5px;
+}
+.benter-promo-code1 {
+  top: 704.5px;
+  left: 35.9px;
+}
+.bnoof-rooms1 {
+  margin: 0;
+}
+.bnoof-rooms-room-container1 {
+  top: 305.5px;
+  left: 33.2px;
+  color: var(--color-gray-100);
+  width: 96.8px;
+}
+.bair-conditioned-3-container1,
+.bnoof-rooms-room-container1,
+.btotal1 {
+  position: absolute;
+  line-height: 200%;
+  display: inline-block;
+}
+.btotal1 {
+  top: 436.5px;
+  left: 33.2px;
+  color: var(--color-gray-100);
+  width: 77.6px;
+}
+.bair-conditioned-3-container1 {
+  top: 305.5px;
+  left: 112px;
+  text-align: right;
+  width: 234.8px;
+}
+.bif-you-have1,
+.bname-email-mobile-container1 {
+  position: absolute;
+  top: 515.5px;
+  left: 33.2px;
+  line-height: 200%;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 106.8px;
+}
+.bif-you-have1 {
+  top: 647.5px;
+  left: 23.2px;
+  font-size: var(--font-size-xs);
+  width: 305.8px;
+}
+.bb4,
+.bjohn-smith-johnsmithgmailcom-container1 {
+  position: absolute;
+  top: 515.5px;
+  left: 112px;
+  line-height: 200%;
+  text-align: right;
+  display: inline-block;
+  width: 234.8px;
+}
+.bb4 {
+  top: 436.5px;
+  left: 303px;
+  width: 45.8px;
+}
+.bline17,
+.bline18,
+.bline19,
+.bline20 {
+  position: absolute;
+  top: 429.5px;
+  left: -1.5px;
+  border-top: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 378px;
+  height: 1px;
+}
+.bline18,
+.bline19,
+.bline20 {
+  top: 471.5px;
+}
+.bline19,
+.bline20 {
+  top: 612.5px;
+}
+.bline20 {
+  top: 740.5px;
+}
+.bsearch1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 341px;
+  height: 43px;
+}
+.bconfirm-order1,
+.bsearch1-group {
+  position: absolute;
+  top: 12.5px;
+  left: 115.5px;
+}
+.bsearch1-group {
+  top: 755.5px;
+  left: 17px;
+  width: 341px;
+  height: 43px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.bjiudiant-child {
+  position: absolute;
+  top: 728.5px;
+  left: 36px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 303px;
+  height: 1px;
+  opacity: 0.5;
+}
+.bdiv10,
+.bpeople-liked-this4 {
+  position: absolute;
+  top: 2.9px;
+  left: 17.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 22.3px;
+  height: 12.8px;
+}
+.bpeople-liked-this4 {
+  top: 20.9px;
+  left: 2.2px;
+  font-weight: 300;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bstar-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bfujian-fuzhou4 {
+  position: absolute;
+  top: 5.5px;
+  left: 23.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bgroup-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.bfujian-fuzhou-parent1,
+.bparent2 {
+  position: absolute;
+  top: 10.3px;
+  left: 155.8px;
+  width: 170.3px;
+  height: 21.7px;
+}
+.bparent2 {
+  top: 211.5px;
+  left: 24px;
+  width: 326px;
+  height: 33px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.bjiudiant {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 815px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

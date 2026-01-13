@@ -1,0 +1,166 @@
+.byinghankazhongyao-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bsubtract-icon {
+  position: relative;
+  width: 338.1px;
+  height: 147.8px;
+}
+.byinghankazhongyao-item {
+  position: absolute;
+  height: 10.46%;
+  width: 8.36%;
+  top: 6.97%;
+  right: 86.66%;
+  bottom: 82.57%;
+  left: 4.99%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-goldenrod-100);
+}
+.bvector-icon,
+.byinghankazhongyao-inner {
+  position: absolute;
+  height: 10.21%;
+  width: 0.67%;
+  top: 7.02%;
+  right: 92.14%;
+  bottom: 82.77%;
+  left: 7.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bvector-icon {
+  right: 89.27%;
+  left: 10.06%;
+}
+.bline83 {
+  position: absolute;
+  height: 0.5%;
+  width: 85.34%;
+  top: 38.99%;
+  right: 7.62%;
+  bottom: 60.51%;
+  left: 7.04%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.bcard-number,
+.bdiv59 {
+  position: absolute;
+  left: 6.16%;
+}
+.bcard-number {
+  top: 21.81%;
+  opacity: 0.5;
+}
+.bdiv59 {
+  top: 30.28%;
+  white-space: pre-wrap;
+}
+.bcard-holder-name,
+.bline84 {
+  position: absolute;
+  opacity: 0.5;
+}
+.bline84 {
+  height: 0.5%;
+  width: 85.34%;
+  top: 64.89%;
+  right: 7.62%;
+  bottom: 34.61%;
+  left: 7.04%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.bcard-holder-name {
+  top: 47.71%;
+  left: 6.16%;
+}
+.bjohn-smith3 {
+  position: absolute;
+  top: 56.18%;
+  left: 6.16%;
+}
+.bexpiry-date,
+.bline85 {
+  position: absolute;
+  opacity: 0.5;
+}
+.bline85 {
+  height: 0.5%;
+  width: 36.36%;
+  top: 90.79%;
+  right: 56.89%;
+  bottom: 8.72%;
+  left: 6.74%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.bexpiry-date {
+  top: 73.61%;
+  left: 6.16%;
+}
+.bdiv60,
+.bline86 {
+  position: absolute;
+  top: 82.07%;
+  left: 6.16%;
+}
+.bline86 {
+  height: 0.5%;
+  width: 36.36%;
+  top: 90.79%;
+  right: 7.62%;
+  bottom: 8.72%;
+  left: 56.01%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.bcvv,
+.bdiv61 {
+  position: absolute;
+  left: 55.43%;
+}
+.bcvv {
+  top: 73.61%;
+  opacity: 0.5;
+}
+.bdiv61 {
+  top: 82.07%;
+}
+.bvisa-pay-logo-icon {
+  position: absolute;
+  height: 21.91%;
+  width: 12.9%;
+  top: 2.89%;
+  right: 6.45%;
+  bottom: 75.2%;
+  left: 80.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.byinghankazhongyao {
+  position: absolute;
+  top: 169px;
+  left: 18px;
+  width: 341px;
+  height: 200.8px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

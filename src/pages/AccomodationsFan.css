@@ -1,0 +1,612 @@
+.find-room2 {
+  position: absolute;
+  top: 49px;
+  left: 19px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.zuhedi-icon2 {
+  position: absolute;
+  height: 8.99%;
+  width: 100%;
+  top: 91.01%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.stay2 {
+  position: absolute;
+  top: 55px;
+  left: 192px;
+  opacity: 0.3;
+}
+.huisejialus2,
+.pass2 {
+  position: absolute;
+  top: 55px;
+  left: 281px;
+}
+.huisejialus2 {
+  top: 61.5px;
+  left: 232.3px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gainsboro);
+  width: 22px;
+  height: 6.3px;
+}
+.luse2 {
+  position: absolute;
+  top: 54.3px;
+  left: 249.3px;
+  border-radius: 50%;
+  background-color: var(--color-mediumseagreen);
+  width: 20.8px;
+  height: 20.8px;
+}
+.buzd-icon2,
+.gaobu-icon2 {
+  position: absolute;
+  top: 56.9px;
+  left: 341.8px;
+  width: 21.2px;
+  height: 19.1px;
+}
+.gaobu-icon2 {
+  height: 4.58%;
+  width: 98.43%;
+  top: 0;
+  right: 1.05%;
+  bottom: 95.42%;
+  left: 0.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dibu-icon2 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.rooms2 {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractroomwrite-icon2 {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-container {
+  position: absolute;
+  top: 766.8px;
+  left: 30px;
+  width: 38px;
+  height: 38.3px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.landi1-icon2,
+.landi12-icon2 {
+  position: absolute;
+  height: 4.55%;
+  width: 45.01%;
+  top: 12.46%;
+  right: 49.74%;
+  bottom: 83%;
+  left: 5.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.landi1-icon2 {
+  right: 4.72%;
+  left: 50.26%;
+}
+.hotels2,
+.villas2 {
+  position: absolute;
+  top: 13.45%;
+  left: 20.81%;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.villas2 {
+  left: 67.01%;
+  color: var(--color-dodgerblue);
+}
+.find-room-container {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 381px;
+  height: 818px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.accomodations-fan-child {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.line12 {
+  position: absolute;
+  top: 256.8px;
+  left: 15.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.checkin-date {
+  position: absolute;
+  top: 227.3px;
+  left: 48px;
+  font-size: var(--font-size-lg);
+  text-align: left;
+}
+.line13 {
+  position: absolute;
+  top: 326.2px;
+  left: 15.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.rectanglexia-icon6,
+.rectanglexia-icon7,
+.rectanglexia-icon8 {
+  position: absolute;
+  top: 295.1px;
+  left: 338.7px;
+  width: 14.1px;
+  height: 14.1px;
+  object-fit: contain;
+}
+.rectanglexia-icon7,
+.rectanglexia-icon8 {
+  top: 362.1px;
+}
+.rectanglexia-icon8 {
+  top: 229.1px;
+}
+.checkout-date {
+  position: absolute;
+  top: 293.7px;
+  left: 48px;
+  font-size: var(--font-size-lg);
+  text-align: left;
+}
+.line14 {
+  position: absolute;
+  top: 391.5px;
+  left: 15.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.adults-0-children1,
+.fan2 {
+  position: absolute;
+  font-size: var(--font-size-lg);
+  text-align: left;
+}
+.adults-0-children1 {
+  top: 362px;
+  left: 51px;
+  white-space: pre-wrap;
+}
+.fan2 {
+  top: 414px;
+  left: 46px;
+  opacity: 0.3;
+}
+.accomodations-fan-item {
+  position: absolute;
+  top: 163.9px;
+  left: 16px;
+  width: 25.4px;
+  height: 215.9px;
+  object-fit: cover;
+}
+.air-conditioned2 {
+  position: absolute;
+  top: 414px;
+  left: 170px;
+  font-size: var(--font-size-lg);
+  text-align: left;
+}
+.accomodations-fan-inner {
+  position: absolute;
+  top: 621px;
+  left: 4px;
+  background-color: var(--color-aliceblue);
+  width: 380px;
+  height: 2.5px;
+}
+.best-places2 {
+  top: 509px;
+  left: 23px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  text-align: left;
+  width: 108px;
+  height: 16px;
+  opacity: 0.5;
+}
+.best-places2,
+.three-lanes-and2,
+.view-all4 {
+  position: absolute;
+  display: inline-block;
+}
+.three-lanes-and2 {
+  top: 596px;
+  left: 23px;
+  color: inherit;
+  width: 92px;
+  height: 13px;
+  text-decoration: none;
+}
+.view-all4 {
+  top: 509px;
+  left: 276.6px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  width: 82.4px;
+  height: 14.6px;
+  cursor: pointer;
+}
+.west-lake-park2 {
+  position: absolute;
+  top: 595.9px;
+  left: 127.6px;
+}
+.best-hotels2,
+.drum-mo2,
+.forest-park2 {
+  position: absolute;
+  top: 595.9px;
+  left: 237.3px;
+}
+.best-hotels2,
+.drum-mo2 {
+  left: 324.7px;
+}
+.best-hotels2 {
+  top: 642px;
+  left: 23px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  text-align: left;
+  display: inline-block;
+  width: 108px;
+  height: 16px;
+  opacity: 0.5;
+}
+.intercontinental2,
+.view-all5 {
+  position: absolute;
+  top: 728.9px;
+  left: 24.2px;
+  display: inline-block;
+  width: 91.3px;
+  height: 12.8px;
+}
+.view-all5 {
+  top: 642px;
+  left: 276.6px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  width: 82.4px;
+  height: 14.6px;
+  cursor: pointer;
+}
+.hilton2,
+.kempinski2,
+.sheraton2 {
+  position: absolute;
+  top: 728.9px;
+  left: 131.7px;
+  display: inline-block;
+  width: 73.8px;
+  height: 12.8px;
+}
+.hilton2,
+.sheraton2 {
+  left: 232.3px;
+  width: 70.2px;
+}
+.hilton2 {
+  top: 729px;
+  left: 329px;
+  width: 54.8px;
+}
+.icon16 {
+  left: 23.9px;
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+}
+.icon16,
+.icon17,
+.icon18 {
+  position: absolute;
+  top: 531.9px;
+  width: 91.9px;
+  height: 60.1px;
+}
+.icon17 {
+  left: 122.7px;
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+}
+.icon18 {
+  left: 221.4px;
+}
+.icon18,
+.icon19,
+.icon20,
+.icon21,
+.icon22 {
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+}
+.icon19 {
+  position: absolute;
+  top: 532px;
+  left: 321px;
+  width: 53px;
+  height: 60px;
+}
+.icon20,
+.icon21,
+.icon22 {
+  width: 91.9px;
+  height: 60.1px;
+}
+.icon20 {
+  position: absolute;
+  top: 665px;
+  left: 23px;
+}
+.icon21,
+.icon22 {
+  top: 664.9px;
+}
+.icon21 {
+  position: absolute;
+  left: 122.7px;
+}
+.icon22 {
+  left: 221.4px;
+}
+.icon22,
+.icon23,
+.line15 {
+  position: absolute;
+}
+.icon23 {
+  top: 665px;
+  left: 321px;
+  border-radius: var(--br-6xs);
+  width: 53px;
+  height: 60px;
+  object-fit: cover;
+}
+.line15 {
+  top: 29.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.line-parent2,
+.where-do-you {
+  position: absolute;
+  top: 0;
+  left: 32px;
+}
+.line-parent2 {
+  top: 162px;
+  left: 16px;
+  width: 343px;
+  height: 30px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.blackbell-icon2,
+.notifications2 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.blackbell-icon2 {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-container {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.car-booking2 {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.blackcar-icon2 {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-container {
+  position: absolute;
+  top: 768.6px;
+  left: 81.8px;
+  width: 65px;
+  height: 36.4px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.my-profile2 {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.blackpeo-icon2 {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.my-profile-container {
+  position: absolute;
+  top: 769.4px;
+  left: 241.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.settings2 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.srectangle-24,
+.srectangle-34 {
+  position: absolute;
+  top: 1.3px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-34 {
+  top: 0;
+  left: 7.4px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-212,
+.srectangle-222,
+.srectangle-312,
+.srectangle-322 {
+  position: absolute;
+  top: 5.6px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-222,
+.srectangle-312,
+.srectangle-322 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-222,
+.srectangle-322 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-322 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.blackset2 {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.settings-container {
+  position: absolute;
+  top: 774.4px;
+  left: 308px;
+  width: 44px;
+  height: 30.6px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.accomodations-fan-child1,
+.huisedot2 {
+  position: absolute;
+  top: 413px;
+  left: 16.5px;
+  width: 22px;
+  height: 22px;
+}
+.huisedot2 {
+  left: 140.5px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  cursor: pointer;
+}
+.search1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 341px;
+  height: 43px;
+}
+.search2 {
+  position: absolute;
+  top: 12.5px;
+  left: 142.5px;
+}
+.search1-container {
+  position: absolute;
+  top: 447.5px;
+  left: 17px;
+  width: 341px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.accomodations-fan {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

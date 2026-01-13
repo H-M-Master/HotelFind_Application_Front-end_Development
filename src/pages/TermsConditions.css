@@ -1,0 +1,105 @@
+.arectangle2 {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  background: linear-gradient(180deg, #00ff94, #0000fe);
+  width: 380px;
+  height: 816px;
+  display: none;
+}
+.aterms-conditions-child {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.amyprofile1 {
+  position: absolute;
+  top: 49px;
+  left: 17px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.arectangle3 {
+  position: absolute;
+  top: 342px;
+  left: -1px;
+  background: linear-gradient(0deg, #fff, rgba(255, 255, 255, 0));
+  width: 378px;
+  height: 270px;
+}
+.aterms-conditions-item {
+  position: absolute;
+  top: 316px;
+  left: 27px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 322px;
+  height: 424px;
+}
+.aterms-conditions1 {
+  position: absolute;
+  top: 50px;
+  left: 56px;
+  font-weight: 500;
+}
+.ablank-line {
+  margin: 0;
+}
+.aterms-conditions-container {
+  position: absolute;
+  top: 97px;
+  left: 31px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 308px;
+  height: 724px;
+}
+.agaobu-icon3 {
+  position: absolute;
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.adibu-icon2 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.agaobu-container {
+  position: absolute;
+  height: 100%;
+  width: 100.13%;
+  top: 0;
+  right: -0.13%;
+  bottom: 0;
+  left: 0;
+}
+.afanhui-icon3 {
+  position: absolute;
+  top: 53.1px;
+  left: 17.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.aterms-conditions {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

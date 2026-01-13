@@ -1,0 +1,318 @@
+.brectangle3 {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  background: linear-gradient(180deg, #00ff94, #0000fe);
+  width: 380px;
+  height: 816px;
+  display: none;
+}
+.bicon5,
+.bicon6,
+.bicon7 {
+  position: absolute;
+  top: 683px;
+  left: 14px;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.bicon6,
+.bicon7 {
+  left: 131.5px;
+}
+.bicon7 {
+  left: 248.5px;
+}
+.blandizhongjian1 {
+  position: absolute;
+  top: 269.9px;
+  left: 130px;
+  background-color: var(--color-dodgerblue);
+  width: 114px;
+  height: 37.3px;
+}
+.bline27 {
+  position: absolute;
+  top: 321px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bbaidi44-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 117px;
+  height: 37.2px;
+}
+.breview-1063 {
+  position: absolute;
+  top: 10.6px;
+  left: 17.5px;
+  display: inline-block;
+  width: 82.5px;
+}
+.bbaidi44-parent1 {
+  position: absolute;
+  top: 269.9px;
+  left: 15px;
+  width: 117px;
+  height: 37.2px;
+  cursor: pointer;
+  color: var(--color-dodgerblue);
+}
+.bnear-by-243,
+.bphoto-103 {
+  position: absolute;
+  top: 280.5px;
+  left: 154.4px;
+  display: inline-block;
+  width: 67.6px;
+}
+.bnear-by-243 {
+  top: 10.6px;
+  left: 18.2px;
+  width: 77.6px;
+}
+.bbaidi431,
+.bnear-by-24-group {
+  position: absolute;
+  width: 114px;
+  height: 37.3px;
+}
+.bbaidi431 {
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  border: 2px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+}
+.bnear-by-24-group {
+  top: 269.9px;
+  left: 242px;
+  cursor: pointer;
+  color: var(--color-dodgerblue);
+}
+.bbookingnow-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 187.8px;
+  height: 62.2px;
+}
+.bbooking-now4 {
+  position: absolute;
+  top: 23.1px;
+  left: 45.9px;
+  text-transform: uppercase;
+}
+.bbookingnow-parent2 {
+  position: absolute;
+  top: 753.8px;
+  left: 188.7px;
+  width: 187.8px;
+  height: 62.2px;
+  cursor: pointer;
+  text-align: center;
+}
+.bjiudianw-child {
+  position: absolute;
+  top: 754px;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 187px;
+  height: 64px;
+}
+.bavgnight4,
+.bb6,
+.bdiv15 {
+  position: absolute;
+  text-transform: uppercase;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.bdiv15 {
+  top: 772.4px;
+  left: 48.6px;
+  opacity: 0.3;
+}
+.bavgnight4,
+.bb6 {
+  top: 790.9px;
+  left: 57px;
+}
+.bb6 {
+  top: 769.4px;
+  left: 89.6px;
+  font-size: var(--font-size-xl);
+}
+.bjiudianw-item,
+.bline28 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.bjiudianw-item {
+  top: 780.5px;
+  left: 47px;
+  border-top: 1px solid var(--color-black);
+  width: 35px;
+  height: 1px;
+  opacity: 0.5;
+}
+.bline28 {
+  top: 753px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  width: 379px;
+  height: 2px;
+}
+.bicon10,
+.bicon11,
+.bicon12,
+.bicon13,
+.bicon14,
+.bicon15,
+.bicon16,
+.bicon8,
+.bicon9 {
+  position: absolute;
+  top: 332px;
+  left: 14px;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.bicon10,
+.bicon11,
+.bicon12,
+.bicon13,
+.bicon14,
+.bicon15,
+.bicon16,
+.bicon9 {
+  left: 131.5px;
+}
+.bicon10,
+.bicon11,
+.bicon12,
+.bicon13,
+.bicon14,
+.bicon15,
+.bicon16 {
+  left: 248.5px;
+}
+.bicon11,
+.bicon12,
+.bicon13,
+.bicon14,
+.bicon15,
+.bicon16 {
+  top: 450px;
+  left: 14px;
+}
+.bicon12,
+.bicon13,
+.bicon14,
+.bicon15,
+.bicon16 {
+  left: 131.5px;
+}
+.bicon13,
+.bicon14,
+.bicon15,
+.bicon16 {
+  left: 248.5px;
+}
+.bicon14,
+.bicon15,
+.bicon16 {
+  top: 567px;
+  left: 14px;
+}
+.bicon15,
+.bicon16 {
+  left: 131.5px;
+}
+.bicon16 {
+  left: 248.5px;
+}
+.bdiv17,
+.bpeople-liked-this6 {
+  position: absolute;
+  top: 2.9px;
+  left: 17.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 22.3px;
+  height: 12.8px;
+}
+.bpeople-liked-this6 {
+  top: 20.9px;
+  left: 2.2px;
+  font-weight: 300;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bstar-icon10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bfujian-fuzhou6 {
+  position: absolute;
+  top: 5.5px;
+  left: 23.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bgroup-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.bdiv16,
+.bfujian-fuzhou-parent3 {
+  position: absolute;
+  top: 10.3px;
+  left: 155.8px;
+  width: 170.3px;
+  height: 21.7px;
+}
+.bdiv16 {
+  top: 211.5px;
+  left: 24px;
+  width: 326px;
+  height: 33px;
+  font-size: var(--font-size-xs);
+}
+.bfanhui1-icon6 {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bjiudianw {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 815px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

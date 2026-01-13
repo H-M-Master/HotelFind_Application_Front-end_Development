@@ -1,0 +1,164 @@
+.yinghankazhongyao-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.subtract-icon {
+  position: relative;
+  width: 338.1px;
+  height: 147.8px;
+}
+.yinghankazhongyao-item {
+  position: absolute;
+  height: 10.46%;
+  width: 8.36%;
+  top: 6.97%;
+  right: 86.66%;
+  bottom: 82.57%;
+  left: 4.99%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-goldenrod);
+}
+.vector-icon,
+.yinghankazhongyao-inner {
+  position: absolute;
+  height: 10.21%;
+  width: 0.67%;
+  top: 7.02%;
+  right: 92.14%;
+  bottom: 82.77%;
+  left: 7.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon {
+  right: 89.27%;
+  left: 10.06%;
+}
+.line {
+  position: absolute;
+  height: 0.5%;
+  width: 85.34%;
+  top: 38.99%;
+  right: 7.62%;
+  bottom: 60.51%;
+  left: 7.04%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.card-number,
+.div {
+  position: absolute;
+  left: 6.16%;
+}
+.card-number {
+  top: 21.81%;
+  opacity: 0.5;
+}
+.div {
+  top: 30.28%;
+  white-space: pre-wrap;
+}
+.card-holder-name,
+.line1 {
+  position: absolute;
+  opacity: 0.5;
+}
+.line1 {
+  height: 0.5%;
+  width: 85.34%;
+  top: 64.89%;
+  right: 7.62%;
+  bottom: 34.61%;
+  left: 7.04%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.card-holder-name {
+  top: 47.71%;
+  left: 6.16%;
+}
+.john-smith,
+.line2 {
+  position: absolute;
+  top: 56.18%;
+  left: 6.16%;
+}
+.line2 {
+  height: 0.5%;
+  width: 36.36%;
+  top: 90.79%;
+  right: 56.89%;
+  bottom: 8.72%;
+  left: 6.74%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.div1,
+.expiry-date,
+.line3 {
+  position: absolute;
+  left: 6.16%;
+}
+.expiry-date {
+  top: 73.61%;
+  opacity: 0.5;
+}
+.div1,
+.line3 {
+  top: 82.07%;
+}
+.line3 {
+  height: 0.5%;
+  width: 36.36%;
+  top: 90.79%;
+  right: 7.62%;
+  bottom: 8.72%;
+  left: 56.01%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.cvv,
+.div2 {
+  position: absolute;
+  left: 55.43%;
+}
+.cvv {
+  top: 73.61%;
+  opacity: 0.5;
+}
+.div2 {
+  top: 82.07%;
+}
+.visa-pay-logo-icon {
+  position: absolute;
+  height: 21.91%;
+  width: 12.9%;
+  top: 2.89%;
+  right: 6.45%;
+  bottom: 75.2%;
+  left: 80.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.yinghankazhongyao {
+  width: 341px;
+  height: 200.8px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

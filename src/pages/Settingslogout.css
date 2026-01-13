@@ -1,0 +1,394 @@
+.settingslogout-child {
+  position: absolute;
+  top: 744.5px;
+  left: -2px;
+  border-radius: var(--br-sm);
+  width: 381px;
+  height: 73.5px;
+}
+.settingslogout-item {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.myprofile {
+  position: absolute;
+  top: 49px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.rectangle1 {
+  position: absolute;
+  top: 342px;
+  left: -1px;
+  background: linear-gradient(0deg, #fff, rgba(255, 255, 255, 0));
+  width: 378px;
+  height: 270px;
+}
+.settingslogout-inner {
+  position: absolute;
+  top: 316px;
+  left: 27px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 322px;
+  height: 424px;
+}
+.settings5 {
+  position: absolute;
+  top: 50px;
+  left: 26px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.rectangle-div {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25) inset;
+  width: 378px;
+  height: 647.8px;
+  opacity: 0.5;
+}
+.group-child {
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+}
+.group-child,
+.rectangle-parent,
+.settingslogout-inner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 338px;
+  height: 48px;
+}
+.settingslogout-inner1 {
+  top: 120px;
+  left: 17px;
+}
+.privacy-policy {
+  position: absolute;
+  top: 14.5px;
+  left: 22px;
+}
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent1 {
+  position: absolute;
+  top: 180px;
+  left: 17px;
+  width: 338px;
+  height: 48px;
+}
+.rectangle-container,
+.rectangle-parent1 {
+  top: 239px;
+}
+.rectangle-parent1 {
+  top: 299px;
+}
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 358px;
+  left: 17px;
+  width: 338px;
+  height: 48px;
+}
+.rectangle-parent3,
+.rectangle-parent4 {
+  top: 415px;
+}
+.rectangle-parent4 {
+  top: 678px;
+  left: 18px;
+  color: var(--color-tomato-100);
+}
+.settings6 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.ssrectangle-2,
+.ssrectangle-3 {
+  position: absolute;
+  top: 1.3px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 16.8px;
+  height: 1.6px;
+}
+.ssrectangle-3 {
+  top: 0;
+  left: 7.4px;
+  width: 2px;
+  height: 4.3px;
+}
+.ssrectangle-21,
+.ssrectangle-22,
+.ssrectangle-31,
+.ssrectangle-32 {
+  position: absolute;
+  top: 5.6px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 16.8px;
+  height: 1.6px;
+}
+.ssrectangle-22,
+.ssrectangle-31,
+.ssrectangle-32 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.ssrectangle-22,
+.ssrectangle-32 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.ssrectangle-32 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.groupsetwri {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.settings-parent3 {
+  position: absolute;
+  top: 774.4px;
+  left: 306px;
+  width: 44px;
+  height: 30.6px;
+  color: var(--color-white);
+}
+.gaobu-icon5 {
+  position: absolute;
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dibu-icon5 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.bell-icon,
+.notifications6 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.bell-icon {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-parent3 {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+}
+.my-profile5 {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.union-icon {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.my-profile-parent3 {
+  position: absolute;
+  top: 769.4px;
+  left: 239.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+}
+.rooms5 {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractwuzi-icon {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-parent3 {
+  position: absolute;
+  top: 766.8px;
+  left: 28px;
+  width: 38px;
+  height: 38.3px;
+  cursor: pointer;
+}
+.car-booking5 {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.union-icon1 {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-parent3 {
+  position: absolute;
+  top: 768.6px;
+  left: 79.8px;
+  width: 65px;
+  height: 36.4px;
+  cursor: pointer;
+}
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375.5px;
+  height: 812px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.rectangleok-icon,
+.rectangleok-icon1,
+.rectangleok-icon2,
+.rectangleok-icon3 {
+  position: absolute;
+  top: 135.5px;
+  left: 319px;
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.rectangleok-icon1,
+.rectangleok-icon2,
+.rectangleok-icon3 {
+  top: 195.5px;
+}
+.rectangleok-icon2,
+.rectangleok-icon3 {
+  top: 254.5px;
+}
+.rectangleok-icon3 {
+  top: 314.5px;
+}
+.rectangleok-icon4 {
+  top: 373.5px;
+  left: 318px;
+  cursor: pointer;
+}
+.rectangleok-icon4,
+.rectangleok-icon5,
+.rectangleok-icon6 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+.rectangleok-icon5 {
+  top: 430.5px;
+  left: 318px;
+  cursor: pointer;
+}
+.rectangleok-icon6 {
+  top: 693.5px;
+  left: 319px;
+}
+.logout-popup-child {
+  position: absolute;
+  height: 13.12%;
+  width: 89.39%;
+  top: 42.73%;
+  right: 5.31%;
+  bottom: 44.15%;
+  left: 5.31%;
+  border-radius: 22px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logout1,
+.no,
+.yes {
+  position: absolute;
+  top: 45.44%;
+  left: 12.53%;
+}
+.no,
+.yes {
+  top: 52.46%;
+  left: 66.93%;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-dodgerblue);
+  cursor: pointer;
+}
+.yes {
+  width: 14.4%;
+  left: 79.73%;
+  display: inline-block;
+}
+.are-you-sure {
+  position: absolute;
+  top: 48.65%;
+  left: 12.53%;
+  opacity: 0.5;
+}
+.logout-popup {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  background-color: rgba(109, 109, 109, 0.5);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+}
+.settingslogout {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

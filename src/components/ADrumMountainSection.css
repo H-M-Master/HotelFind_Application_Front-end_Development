@@ -1,0 +1,84 @@
+.bdrum-mountain {
+  position: absolute;
+  top: 0;
+  left: 126.2px;
+  font-size: var(--font-size-sm);
+}
+.bdiv42 {
+  top: 23.5px;
+  left: 139.7px;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+  width: 22.3px;
+}
+.bam-1159-container,
+.bdiv42,
+.breviews-2001 {
+  position: absolute;
+  display: inline-block;
+  height: 12.8px;
+}
+.breviews-2001 {
+  top: 21.5px;
+  left: 176.2px;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+  width: 83.3px;
+}
+.bam-1159-container {
+  top: 42.5px;
+  left: 127.5px;
+  font-weight: 500;
+  width: 143.5px;
+}
+.bmountain-religious {
+  margin: 0;
+}
+.bmountain-religious-container {
+  position: absolute;
+  top: 65.5px;
+  left: 125.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 225.3px;
+  height: 12.8px;
+}
+.bicon47,
+.bline82 {
+  position: absolute;
+}
+.bicon47 {
+  top: 2px;
+  left: 23.9px;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77.1px;
+  object-fit: cover;
+}
+.bline82 {
+  top: 96.6px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 378px;
+  height: 1px;
+}
+.bstar-icon24 {
+  position: absolute;
+  top: 20.6px;
+  left: 122px;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bdrum-mountain-parent {
+  position: absolute;
+  top: 499px;
+  left: -2px;
+  width: 377px;
+  height: 97.1px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

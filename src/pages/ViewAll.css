@@ -1,0 +1,162 @@
+.bline49,
+.bline50,
+.bline51 {
+  position: absolute;
+  top: 149px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bline50,
+.bline51 {
+  top: 259.5px;
+  left: -1.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  width: 378px;
+  height: 1px;
+}
+.bline51 {
+  top: 373.5px;
+}
+.bview-all3 {
+  position: absolute;
+  top: 49px;
+  left: 47px;
+  font-weight: 500;
+}
+.bgaobu-icon2 {
+  position: absolute;
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bdibu-icon3 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.bview-all-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375.5px;
+  height: 812px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.brectangleview-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 103.8px;
+  height: 21.7px;
+}
+.bview {
+  position: absolute;
+  top: 2.4px;
+  left: 2.2px;
+  display: inline-block;
+  width: 99.5px;
+  height: 16.9px;
+}
+.bgroup401,
+.bgroup402 {
+  left: 252.7px;
+  cursor: pointer;
+}
+.bgroup401 {
+  position: absolute;
+  top: 225.3px;
+  width: 103.8px;
+  height: 21.7px;
+}
+.bgroup402 {
+  top: 450.3px;
+}
+.bfanhui-icon,
+.bgroup402,
+.bgroup403,
+.bgroup404 {
+  position: absolute;
+  width: 103.8px;
+  height: 21.7px;
+}
+.bgroup403 {
+  top: 339.3px;
+  left: 252.7px;
+  cursor: pointer;
+}
+.bfanhui-icon,
+.bgroup404 {
+  top: 560px;
+  left: 252px;
+}
+.bfanhui-icon {
+  top: 53.1px;
+  left: 17.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bsearch,
+.bshousuokuan {
+  position: absolute;
+  top: 9.5px;
+  left: 38.3px;
+}
+.bshousuokuan {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 343px;
+  height: 34px;
+}
+.bcuowu-icon,
+.bshousuo-icon {
+  position: absolute;
+  top: 5.9px;
+  left: 7.3px;
+  width: 22.8px;
+  height: 24.3px;
+  object-fit: contain;
+}
+.bcuowu-icon {
+  top: 7.6px;
+  left: 316.9px;
+  width: 21.6px;
+  height: 21.6px;
+}
+.bshousuoyitioa {
+  position: absolute;
+  top: 98px;
+  left: 16px;
+  width: 343px;
+  height: 34px;
+  text-align: left;
+  color: var(--color-black);
+}
+.bview-all2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+

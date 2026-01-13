@@ -1,0 +1,89 @@
+.unionng-icon {
+  position: relative;
+  width: 280px;
+  height: 103px;
+}
+.winston {
+  position: absolute;
+  height: 15.53%;
+  width: 20.5%;
+  top: 5.83%;
+  left: 31.64%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  display: inline-block;
+}
+.div8 {
+  height: 10.19%;
+  width: 6.5%;
+  top: 24.56%;
+  left: 35.61%;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+}
+.div8,
+.div9,
+.reviews-200 {
+  position: absolute;
+  display: inline-block;
+}
+.reviews-200 {
+  height: 10.19%;
+  width: 34.46%;
+  top: 24.95%;
+  left: 44.82%;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+}
+.div9 {
+  height: 11.65%;
+  width: 36.86%;
+  top: 49.42%;
+  left: 32.07%;
+  font-weight: 500;
+}
+.people1-icon,
+.star-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.people1-icon {
+  height: 61.55%;
+  width: 26.29%;
+  top: 5.83%;
+  right: 71.21%;
+  bottom: 32.62%;
+  left: 2.5%;
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+}
+.star-icon {
+  height: 13.59%;
+  width: 4.96%;
+  top: 24.27%;
+  right: 65.04%;
+  bottom: 62.14%;
+  left: 30%;
+  border-radius: var(--br-12xs);
+}
+.vector111-icon {
+  position: absolute;
+  top: 27.6px;
+  left: 252.6px;
+  width: 11.2px;
+  height: 29.7px;
+  object-fit: contain;
+}
+.unionng-parent {
+  position: absolute;
+  top: 286px;
+  left: 5px;
+  width: 280px;
+  height: 103px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

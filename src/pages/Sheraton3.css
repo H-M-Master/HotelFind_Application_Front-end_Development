@@ -1,0 +1,368 @@
+.bdiv8,
+.bpeople-liked-this3 {
+  position: absolute;
+  top: 20.9px;
+  left: 2.2px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bdiv8 {
+  top: 2.9px;
+  left: 17.7px;
+  font-weight: 500;
+  width: 22.3px;
+  height: 12.8px;
+}
+.bcontainer,
+.bstar-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 17px;
+}
+.bstar-icon5 {
+  border-radius: var(--br-12xs);
+  width: 17px;
+}
+.bcontainer {
+  width: 40px;
+  cursor: pointer;
+}
+.bfujian-fuzhou3 {
+  position: absolute;
+  top: 5.5px;
+  left: 23.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bgroup-div,
+.bgroup-icon3 {
+  position: absolute;
+  height: 21.7px;
+}
+.bgroup-icon3 {
+  top: 0;
+  left: 0;
+  width: 15.5px;
+  object-fit: cover;
+}
+.bgroup-div {
+  top: 10.3px;
+  left: 155.8px;
+  width: 170.3px;
+}
+.bpeople-liked-this-parent {
+  position: absolute;
+  top: 211.5px;
+  left: 24px;
+  width: 326px;
+  height: 33px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.bline12,
+.bline13,
+.bline14 {
+  position: absolute;
+  top: 763px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bline13,
+.bline14 {
+  top: 993px;
+}
+.bline14 {
+  top: 1157px;
+}
+.bcheck-availability,
+.bfood {
+  left: 17.2px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.bcheck-availability {
+  position: absolute;
+  top: 772.5px;
+  width: 148.6px;
+}
+.bfood {
+  top: 1004.5px;
+  width: 43.8px;
+}
+.bfood,
+.bicon,
+.bview-all {
+  position: absolute;
+}
+.bview-all {
+  top: 1004.5px;
+  left: 293px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  display: inline-block;
+  width: 62px;
+}
+.bicon {
+  top: 1035.9px;
+  left: 19.7px;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77px;
+  object-fit: cover;
+}
+.bbagels-with-turkey {
+  position: absolute;
+  top: 1114.9px;
+  left: 22.2px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 90.8px;
+  height: 27.6px;
+}
+.bicon1 {
+  position: absolute;
+  top: 1035.9px;
+  left: 119.7px;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77px;
+  object-fit: cover;
+}
+.bgourmet-croissant-scrambled {
+  position: absolute;
+  top: 1114.9px;
+  left: 116.2px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 99.3px;
+  height: 26.6px;
+}
+.bicon2 {
+  position: absolute;
+  top: 1035.9px;
+  left: 220.7px;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77px;
+  object-fit: cover;
+}
+.bsandwich {
+  position: absolute;
+  top: 1114.9px;
+  left: 223.2px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 91.3px;
+  height: 12.8px;
+}
+.bicon3 {
+  position: absolute;
+  top: 1036px;
+  left: 322px;
+  border-radius: var(--br-6xs);
+  width: 54px;
+  height: 77px;
+  object-fit: cover;
+}
+.bcrispy-mo {
+  position: absolute;
+  top: 1114.9px;
+  left: 324.2px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 91.3px;
+  height: 12.8px;
+}
+.btupian-icon {
+  position: absolute;
+  top: 1156px;
+  left: -2px;
+  width: 378px;
+  height: 236px;
+  object-fit: cover;
+}
+.bunion-icon {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.bbookingnow-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 187.8px;
+  height: 62.2px;
+}
+.bbooking-now2 {
+  position: absolute;
+  top: 23.1px;
+  left: 45.9px;
+  text-transform: uppercase;
+}
+.bbookingnow-container {
+  position: absolute;
+  top: 1327.8px;
+  left: 187.7px;
+  width: 187.8px;
+  height: 62.2px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-white);
+}
+.bsheraton-child1 {
+  position: absolute;
+  top: 1328px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 187px;
+  height: 64px;
+}
+.bavgnight2,
+.bb3,
+.bdiv9 {
+  position: absolute;
+  text-transform: uppercase;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.bdiv9 {
+  top: 1346.4px;
+  left: 47.6px;
+  opacity: 0.3;
+}
+.bavgnight2,
+.bb3 {
+  top: 1364.9px;
+  left: 56px;
+}
+.bb3 {
+  top: 1343.4px;
+  left: 88.6px;
+  font-size: var(--font-size-xl);
+}
+.bsheraton-child2 {
+  position: absolute;
+  top: 1354.5px;
+  left: 46px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 35px;
+  height: 1px;
+  opacity: 0.5;
+}
+.bfanhui1-icon3 {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bline15 {
+  position: absolute;
+  top: 843px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.bcheckin-date {
+  position: absolute;
+  top: 813.5px;
+  left: 52px;
+  font-size: var(--font-size-lg);
+}
+.bline16 {
+  position: absolute;
+  top: 912.3px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.brectanglexia-icon,
+.brectanglexia-icon1,
+.brectanglexia-icon2 {
+  position: absolute;
+  top: 881.2px;
+  left: 342.7px;
+  width: 14.1px;
+  height: 14.1px;
+  object-fit: contain;
+}
+.brectanglexia-icon1,
+.brectanglexia-icon2 {
+  top: 950px;
+  left: 343px;
+}
+.brectanglexia-icon2 {
+  top: 815.2px;
+  left: 342.7px;
+}
+.badults-0-children,
+.bcheckout-date {
+  position: absolute;
+  top: 879.8px;
+  left: 52px;
+  font-size: var(--font-size-lg);
+}
+.badults-0-children {
+  top: 948.1px;
+  left: 55px;
+  white-space: pre-wrap;
+}
+.bdatetime-icon {
+  position: relative;
+  width: 15.5px;
+  height: 16.5px;
+}
+.bdatetime-icon123 {
+  position: relative;
+  width: 15.5px;
+  height: 16.5px;
+  top: 45px;
+}
+.bdatetime-parent,
+.bgroup-item {
+  position: absolute;
+  width: 25.4px;
+}
+.bgroup-item {
+  top: 131.5px;
+  left: 0;
+  height: 20.4px;
+  object-fit: cover;
+}
+.bdatetime-parent {
+  top: 813.9px;
+  left: 20px;
+  height: 152px;
+}
+.bsheraton3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1390px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

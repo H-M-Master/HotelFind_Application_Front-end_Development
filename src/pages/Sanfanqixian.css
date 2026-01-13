@@ -1,0 +1,157 @@
+.bline46 {
+  position: absolute;
+  top: 321px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.btupianzu121-child,
+.btupianzu121-inner,
+.btupianzu121-item {
+  position: absolute;
+  top: 351px;
+  left: 0;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.btupianzu121-inner,
+.btupianzu121-item {
+  left: 117.5px;
+}
+.btupianzu121-inner {
+  left: 234.5px;
+}
+.btupianzu121-child1,
+.btupianzu121-child2,
+.btupianzu121-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.btupianzu121-child2,
+.btupianzu121-child3 {
+  left: 117.5px;
+}
+.btupianzu121-child3 {
+  left: 234.5px;
+}
+.btupianzu121-child4,
+.btupianzu121-child5,
+.btupianzu121-child6 {
+  position: absolute;
+  top: 118px;
+  left: 0;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.btupianzu121-child5,
+.btupianzu121-child6 {
+  left: 117.5px;
+}
+.btupianzu121-child6 {
+  left: 234.5px;
+}
+.btupianzu121-child7,
+.btupianzu121-child8,
+.btupianzu121-child9 {
+  position: absolute;
+  top: 235px;
+  left: 0;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.btupianzu121-child8,
+.btupianzu121-child9 {
+  left: 117.5px;
+}
+.btupianzu121-child9 {
+  left: 234.5px;
+}
+.btupianzu121 {
+  position: absolute;
+  top: 332px;
+  left: 14px;
+  width: 344.5px;
+  height: 461px;
+}
+.bdibu-icon2 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.blandi392 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-dodgerblue);
+  border: 2px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 166px;
+  height: 37.3px;
+}
+.bphoto-124 {
+  position: absolute;
+  top: 10.1px;
+  left: 48px;
+  display: inline-block;
+  width: 113px;
+}
+.blandi39-container,
+.bwhite1-icon2 {
+  position: absolute;
+  top: 269.9px;
+  left: 190px;
+  width: 166px;
+  height: 37.3px;
+}
+.bwhite1-icon2 {
+  top: 0;
+  left: 0;
+  width: 175px;
+  height: 37px;
+  cursor: pointer;
+}
+.breview-1067 {
+  position: absolute;
+  top: 10px;
+  left: 49px;
+  display: inline-block;
+  width: 82.5px;
+}
+.bwhite1-container {
+  position: absolute;
+  top: 270px;
+  left: 15px;
+  width: 175px;
+  height: 37px;
+  color: var(--color-dodgerblue);
+}
+.bfanhui1-icon12 {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bsanfanqixian {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-aliceblue);
+  font-family: var(--font-roboto);
+}

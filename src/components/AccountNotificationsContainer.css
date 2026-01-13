@@ -1,0 +1,144 @@
+.bbooking2 {
+  position: absolute;
+  top: 49.3px;
+  left: 2px;
+  font-weight: 300;
+}
+.bheise-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-16xl);
+  width: 46.8px;
+  height: 46.3px;
+}
+.bgroup-child43 {
+  position: absolute;
+  height: 31.6%;
+  width: 34.19%;
+  top: 20.54%;
+  right: 33.76%;
+  bottom: 47.87%;
+  left: 32.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bbooking-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 46.8px;
+  height: 63.3px;
+  cursor: pointer;
+}
+.bvip2 {
+  position: absolute;
+  top: 49.3px;
+  left: 14.4px;
+  font-weight: 300;
+}
+.bhamburger-icon2 {
+  position: absolute;
+  top: 8.3px;
+  left: 9.8px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.bvip-container {
+  position: absolute;
+  top: 0;
+  left: 275px;
+  width: 46.8px;
+  height: 63.3px;
+  color: var(--color-black);
+}
+.bservice2 {
+  position: absolute;
+  top: 49.3px;
+  left: 4.4px;
+  font-weight: 300;
+}
+.bvector-icon1,
+.bvector-icon2,
+.bvector-icon3,
+.bvector-icon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bvector-icon1 {
+  height: 31.6%;
+  width: 42.74%;
+  top: 22.12%;
+  right: 27.35%;
+  bottom: 46.29%;
+  left: 29.91%;
+}
+.bvector-icon2,
+.bvector-icon3,
+.bvector-icon4 {
+  height: 3.16%;
+}
+.bvector-icon2 {
+  width: 17.09%;
+  top: 41.07%;
+  right: 40.17%;
+  bottom: 55.77%;
+  left: 42.74%;
+}
+.bvector-icon3,
+.bvector-icon4 {
+  top: 33.18%;
+  bottom: 63.67%;
+  left: 44.87%;
+}
+.bvector-icon4 {
+  left: 57.69%;
+}
+.bgroup-parent8 {
+  position: absolute;
+  top: 0;
+  left: 184px;
+  width: 46.8px;
+  height: 63.3px;
+}
+.baccount2 {
+  position: absolute;
+  top: 49.3px;
+  left: 1.4px;
+  font-weight: 300;
+}
+.bgroup-child44 {
+  position: absolute;
+  height: 40.28%;
+  width: 48.5%;
+  top: 15.8%;
+  right: 25.85%;
+  bottom: 43.92%;
+  left: 25.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.baccount-container {
+  position: absolute;
+  top: 0;
+  left: 93px;
+  width: 46.8px;
+  height: 63.3px;
+  cursor: pointer;
+}
+.bgroup-parent7 {
+  position: absolute;
+  top: 148px;
+  left: 28px;
+  width: 321.8px;
+  height: 63.3px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightsteelblue);
+  font-family: var(--font-roboto);
+}

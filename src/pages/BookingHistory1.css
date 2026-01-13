@@ -1,0 +1,372 @@
+.aunion-icon1 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+
+.abeijing-shezi-child,
+.abeijing-shezi2 {
+  position: absolute;
+  left: 0;
+  width: 378px;
+  height: 673px;
+}
+
+.abeijing-shezi-child {
+  top: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25) inset;
+  opacity: 0.5;
+}
+
+.abeijing-shezi2 {
+  top: 142px;
+}
+
+.abooking-history-item {
+  position: absolute;
+  top: 259px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 82px;
+}
+
+.agroup-icon2 {
+  position: absolute;
+  top: 266.8px;
+  left: 35.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.afuzhou-city-centre,
+.ajuly-20191 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ajuly-20191 {
+  top: 4px;
+  left: 225px;
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  opacity: 0.5;
+}
+
+.ab1,
+.afuzhou-intercontinental2 {
+  position: absolute;
+  top: 39px;
+  left: 3px;
+}
+
+.ab1 {
+  top: 42.7px;
+  left: 253.5px;
+}
+
+.afuzhou-city-centre-parent {
+  position: absolute;
+  top: 272px;
+  left: 65.3px;
+  width: 278.5px;
+  height: 58.7px;
+  cursor: pointer;
+}
+
+.agroup-icon3 {
+  position: absolute;
+  top: 305.8px;
+  left: 35.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.abooking-history-inner {
+  position: absolute;
+  top: 357px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 82px;
+  cursor: pointer;
+}
+
+.afuzhou-intercontinental3,
+.ajuly-20192 {
+  position: absolute;
+  top: 370px;
+  left: 65.3px;
+}
+
+.ajuly-20192 {
+  top: 374px;
+  left: 290.3px;
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  opacity: 0.5;
+}
+
+.agroup-icon4 {
+  position: absolute;
+  top: 364.8px;
+  left: 35.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.ab2,
+.afuzhou-airport2,
+.agroup-icon5 {
+  position: absolute;
+  top: 409px;
+  left: 68.3px;
+}
+
+.ab2,
+.agroup-icon5 {
+  top: 412.7px;
+  left: 318.7px;
+}
+
+.agroup-icon5 {
+  top: 403.8px;
+  left: 35.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.abooking-history-child1 {
+  position: absolute;
+  top: 453px;
+  left: 18px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 82px;
+}
+
+.afuzhou-intercontinental4,
+.ajuly-20193 {
+  position: absolute;
+  top: 466px;
+  left: 65.3px;
+}
+
+.ajuly-20193 {
+  top: 470px;
+  left: 290.3px;
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  opacity: 0.5;
+}
+
+.agroup-icon6 {
+  position: absolute;
+  top: 460.8px;
+  left: 35.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.ab3,
+.afuzhou-city-centre1,
+.agroup-icon7 {
+  position: absolute;
+  top: 505px;
+  left: 68.3px;
+}
+
+.ab3,
+.agroup-icon7 {
+  top: 508.7px;
+  left: 318.7px;
+}
+
+.agroup-icon7 {
+  top: 499.8px;
+  left: 35.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.agroup-child7 {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 374px;
+  height: 62px;
+}
+
+.acar-booking-history {
+  position: absolute;
+  top: 49px;
+  left: 47px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+
+.acompleted {
+  position: absolute;
+  top: 102.5px;
+  left: 156.4px;
+  font-size: var(--font-size-sm);
+  text-align: center;
+  display: inline-block;
+  width: 71.1px;
+}
+
+.arectangle-21blue18-icon,
+.arectangle-4kuan18-icon {
+  position: absolute;
+  top: 88.9px;
+  width: 171.5px;
+  height: 37.2px;
+}
+
+.arectangle-4kuan18-icon {
+  left: 20px;
+  cursor: pointer;
+}
+
+.arectangle-21blue18-icon {
+  left: 191.5px;
+}
+
+.aroom1 {
+  position: absolute;
+  top: 76.92%;
+  left: 20.61%;
+  color: var(--color-dodgerblue);
+}
+
+.acar3,
+.agaobu-icon9 {
+  position: absolute;
+  top: 77.72%;
+  left: 67.81%;
+}
+
+.agaobu-icon9 {
+  height: 29.74%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 70.26%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.arectangle-parent6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 126.1px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+
+.agroup-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 82px;
+}
+
+.afuzhou-airport3,
+.ajuly-20194 {
+  position: absolute;
+  top: 13px;
+  left: 47.3px;
+}
+
+.ajuly-20194 {
+  top: 17px;
+  left: 272.3px;
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  opacity: 0.5;
+}
+
+.agroup-icon8 {
+  position: absolute;
+  top: 7.8px;
+  left: 17.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.ab4,
+.afuzhou-intercontinental5,
+.agroup-icon9 {
+  position: absolute;
+  top: 52px;
+  left: 50.3px;
+}
+
+.ab4,
+.agroup-icon9 {
+  top: 55.7px;
+  left: 300.7px;
+}
+
+.agroup-icon9 {
+  top: 46.8px;
+  left: 17.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+
+.afanhui-icon8,
+.arectangle-parent7 {
+  position: absolute;
+  top: 161px;
+  left: 18px;
+  width: 338px;
+  height: 82px;
+  cursor: pointer;
+}
+
+.afanhui-icon8 {
+  top: 53.1px;
+  left: 17.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+}
+
+.abooking-history2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,225 @@
+.bline42 {
+  top: 321px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bicon23,
+.bline42,
+.bline43 {
+  position: absolute;
+}
+.bline43 {
+  top: 874px;
+  left: -1px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bicon23 {
+  top: 0;
+  left: 0;
+  width: 379.1px;
+  height: 260px;
+  object-fit: cover;
+}
+.bthree-lanes-and4 {
+  position: absolute;
+  top: 38px;
+  left: 32.1px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.81);
+}
+.bdiv20,
+.bpeople-liked-this8 {
+  position: absolute;
+  top: 232.4px;
+  left: 26.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bdiv20 {
+  top: 2.9px;
+  left: 17.7px;
+  font-weight: 500;
+  width: 22.3px;
+  height: 12.8px;
+}
+.bstar-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bfujian-fuzhou8,
+.bparent6 {
+  position: absolute;
+  top: 211.5px;
+  left: 24.1px;
+  width: 40px;
+  height: 17px;
+}
+.bfujian-fuzhou8 {
+  top: 5.5px;
+  left: 23.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bgroup-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.bblue1-icon,
+.bfujian-fuzhou-parent5 {
+  position: absolute;
+  top: 221.8px;
+  left: 179.8px;
+  width: 170.3px;
+  height: 21.7px;
+}
+.bblue1-icon {
+  top: 270px;
+  left: 15.1px;
+  width: 175px;
+  height: 37px;
+}
+.breview-1066 {
+  position: absolute;
+  top: 280px;
+  left: 64.1px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 82.5px;
+}
+.bgaobu-icon,
+.bparent5 {
+  position: absolute;
+  top: 0;
+}
+.bgaobu-icon {
+  height: 10.29%;
+  width: 98.92%;
+  right: 1.06%;
+  bottom: 89.71%;
+  left: 0.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bparent5 {
+  left: -0.1px;
+  width: 379.1px;
+  height: 307px;
+  text-align: left;
+  color: var(--color-white);
+}
+.bdescription1,
+.bthe-west-lake2 {
+  position: absolute;
+  display: inline-block;
+}
+.bthe-west-lake2 {
+  top: 357px;
+  left: 18px;
+  line-height: 145.19%;
+  font-weight: 300;
+  width: 337px;
+  height: 510px;
+}
+.bdescription1 {
+  top: 333.5px;
+  left: 113.9px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  width: 148.6px;
+}
+.bline45 {
+  position: absolute;
+  top: 535px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.barchitectural-characteristic {
+  position: absolute;
+  top: 543px;
+  left: 73px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+}
+.bfuzhou-west-lake,
+.bphoto-123 {
+  position: absolute;
+  display: inline-block;
+}
+.bfuzhou-west-lake {
+  top: 566px;
+  left: 16px;
+  line-height: 145.19%;
+  font-weight: 300;
+  width: 337px;
+  height: 432px;
+}
+.bphoto-123 {
+  top: 10.1px;
+  left: 52px;
+  width: 113px;
+}
+.bgroup-child3,
+.bphoto-12-group {
+  position: absolute;
+  width: 166px;
+  height: 37.3px;
+}
+.bgroup-child3 {
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  border: 2px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+}
+.bphoto-12-group {
+  top: 269.9px;
+  left: 190px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dodgerblue);
+}
+.bfanhui1-icon11 {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bxihu1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 947px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

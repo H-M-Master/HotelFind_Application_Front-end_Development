@@ -1,0 +1,68 @@
+.bthree-lanes-and13 {
+  position: absolute;
+  top: 0;
+  left: 102.1px;
+  font-size: var(--font-size-sm);
+}
+.bdiv44,
+.breviews-2002 {
+  position: absolute;
+  top: 23.4px;
+  left: 115.8px;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+  display: inline-block;
+  width: 22.3px;
+  height: 12.8px;
+}
+.breviews-2002 {
+  top: 21.4px;
+  left: 152.3px;
+  width: 83.3px;
+}
+.bam-11591 {
+  margin: 0;
+}
+.bam-1159-container1,
+.bhistorical-site1 {
+  position: absolute;
+  top: 42.4px;
+  left: 103.6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 143.5px;
+  height: 12.8px;
+}
+.bhistorical-site1 {
+  top: 65.4px;
+  left: 101.3px;
+  width: 225.3px;
+}
+.bicon49 {
+  position: absolute;
+  top: 1.9px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77.1px;
+  object-fit: cover;
+}
+.bstar-icon26 {
+  position: absolute;
+  top: 20.5px;
+  left: 98.1px;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bthree-lanes-and-seven-alleys-container {
+  position: absolute;
+  top: 163px;
+  left: 22.9px;
+  width: 326.6px;
+  height: 79px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

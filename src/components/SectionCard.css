@@ -1,0 +1,54 @@
+.group-child41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 82px;
+}
+.july-20231,
+.luxurious-personal-service {
+  position: absolute;
+  top: 13px;
+  left: 47.3px;
+}
+.july-20231 {
+  top: 17px;
+  left: 272.3px;
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  opacity: 0.5;
+}
+.hello-i-will {
+  position: absolute;
+  top: 31px;
+  left: 47px;
+  display: inline-block;
+  width: 247px;
+  height: 38px;
+}
+.group-child42 {
+  position: absolute;
+  height: 31.1%;
+  width: 6.72%;
+  top: 22.32%;
+  right: 89.53%;
+  bottom: 46.59%;
+  left: 3.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 233px;
+  left: 19px;
+  width: 338px;
+  height: 82px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

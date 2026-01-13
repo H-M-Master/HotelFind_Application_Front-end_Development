@@ -1,0 +1,76 @@
+.bintercontinental2 {
+  position: absolute;
+  top: 0;
+  left: 102.3px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.bdiv64 {
+  top: 23.5px;
+  left: 115.8px;
+  color: var(--color-lightslategray);
+  width: 22.3px;
+  height: 12.8px;
+}
+.bdiv64,
+.breviews-2003,
+.bset-in-landscaped {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.breviews-2003 {
+  top: 21.5px;
+  left: 152.3px;
+  color: var(--color-lightslategray);
+  width: 83.3px;
+  height: 12.8px;
+}
+.bset-in-landscaped {
+  top: 42.5px;
+  left: 101.3px;
+  width: 236.3px;
+  height: 14.6px;
+}
+.bspan {
+  color: var(--color-black);
+}
+.boff-127 {
+  position: absolute;
+  top: 65.5px;
+  left: 101.3px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 225.3px;
+  height: 12.8px;
+  color: var(--color-goldenrod-200);
+}
+.bicon50 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77.1px;
+  object-fit: cover;
+}
+.bstar-icon37 {
+  position: absolute;
+  top: 20.6px;
+  left: 98.1px;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bintercontinental-parent {
+  position: absolute;
+  top: 193.4px;
+  left: 23.9px;
+  width: 337.6px;
+  height: 79.1px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

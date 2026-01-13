@@ -1,0 +1,364 @@
+.settings-child {
+  position: absolute;
+  top: 744.5px;
+  left: -2px;
+  border-radius: var(--br-sm);
+  width: 381px;
+  height: 73.5px;
+}
+.settings-item {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.myprofile1 {
+  position: absolute;
+  top: 49px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.rectangle3 {
+  position: absolute;
+  top: 342px;
+  left: -1px;
+  background: linear-gradient(0deg, #fff, rgba(255, 255, 255, 0));
+  width: 378px;
+  height: 270px;
+}
+.settings-inner {
+  position: absolute;
+  top: 316px;
+  left: 27px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 322px;
+  height: 424px;
+}
+.settings15 {
+  position: absolute;
+  top: 50px;
+  left: 26px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.settings-child1 {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25) inset;
+  width: 378px;
+  height: 647.8px;
+  opacity: 0.5;
+}
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.17);
+  width: 338px;
+  height: 48px;
+}
+.notifications19 {
+  position: absolute;
+  top: 14.5px;
+  left: 22px;
+}
+.rectangle-parent7,
+.settings-inner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 338px;
+  height: 48px;
+}
+.settings-inner1 {
+  top: 120px;
+  left: 17px;
+}
+.rectangle-parent10,
+.rectangle-parent8,
+.rectangle-parent9 {
+  position: absolute;
+  top: 180px;
+  left: 17px;
+  width: 338px;
+  height: 48px;
+}
+.rectangle-parent10,
+.rectangle-parent9 {
+  top: 239px;
+}
+.rectangle-parent10 {
+  top: 299px;
+}
+.rectangle-parent11,
+.rectangle-parent12,
+.rectangle-parent13 {
+  position: absolute;
+  top: 358px;
+  left: 17px;
+  width: 338px;
+  height: 48px;
+}
+.rectangle-parent12,
+.rectangle-parent13 {
+  top: 415px;
+}
+.rectangle-parent13 {
+  top: 678px;
+  left: 18px;
+  color: var(--color-tomato-100);
+}
+.settings16 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.ssrectangle-23,
+.ssrectangle-33 {
+  position: absolute;
+  top: 1.3px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 16.8px;
+  height: 1.6px;
+}
+.ssrectangle-33 {
+  top: 0;
+  left: 7.4px;
+  width: 2px;
+  height: 4.3px;
+}
+.ssrectangle-211,
+.ssrectangle-221,
+.ssrectangle-311,
+.ssrectangle-321 {
+  position: absolute;
+  top: 5.6px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 16.8px;
+  height: 1.6px;
+}
+.ssrectangle-221,
+.ssrectangle-311,
+.ssrectangle-321 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.ssrectangle-221,
+.ssrectangle-321 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.ssrectangle-321 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.groupsetwri1 {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.gaobu-icon13,
+.settings-parent11 {
+  position: absolute;
+  top: 774.4px;
+  left: 306px;
+  width: 44px;
+  height: 30.6px;
+}
+.gaobu-icon13 {
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dibu-icon13 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.group-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375.5px;
+  height: 812px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.rectangleok-icon7 {
+  position: absolute;
+  top: 135.5px;
+  left: 319px;
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.rectangleok-icon10,
+.rectangleok-icon11,
+.rectangleok-icon12,
+.rectangleok-icon8,
+.rectangleok-icon9 {
+  position: absolute;
+  top: 195.5px;
+  left: 319px;
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.rectangleok-icon10,
+.rectangleok-icon11,
+.rectangleok-icon12,
+.rectangleok-icon9 {
+  top: 254.5px;
+}
+.rectangleok-icon10,
+.rectangleok-icon11,
+.rectangleok-icon12 {
+  top: 314.5px;
+}
+.rectangleok-icon11,
+.rectangleok-icon12 {
+  top: 373.5px;
+  left: 318px;
+}
+.rectangleok-icon12 {
+  top: 430.5px;
+}
+.blackbell-icon7,
+.notifications20 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.blackbell-icon7 {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-parent10 {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.rooms13 {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractwuzi-icon7 {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-parent11 {
+  position: absolute;
+  top: 766.8px;
+  left: 30px;
+  width: 38px;
+  height: 38.3px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.my-profile13 {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.blackpeo-icon12 {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.my-profile-parent11 {
+  position: absolute;
+  top: 769.4px;
+  left: 241.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.car-booking13 {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.blackcar-icon11 {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-parent11 {
+  position: absolute;
+  top: 768.6px;
+  left: 81.8px;
+  width: 65px;
+  height: 36.4px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+}
+.rectangleok-icon13 {
+  position: absolute;
+  top: 693.5px;
+  left: 319px;
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.settings14 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,343 @@
+.car-details-and-price-child {
+  position: absolute;
+  top: 744.5px;
+  left: -2px;
+  border-radius: var(--br-sm);
+  width: 381px;
+  height: 73.5px;
+}
+.car-details-and-price-item {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.book-a-car3 {
+  position: absolute;
+  top: 49px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.fuzhou-airport2 {
+  position: absolute;
+  top: 99px;
+  left: 55px;
+  font-size: var(--font-size-sm);
+}
+.group-icon5 {
+  position: absolute;
+  top: 92.8px;
+  left: 25.8px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.fuzhou-intercontinental1 {
+  position: absolute;
+  top: 142px;
+  left: 55px;
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+}
+.group-icon6 {
+  top: 139px;
+  left: 26px;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.car1,
+.group-icon6,
+.saloon1 {
+  position: absolute;
+}
+.car1 {
+  top: 181.7px;
+  left: 30.7px;
+  opacity: 0.5;
+}
+.saloon1 {
+  top: 179.7px;
+  left: 53.7px;
+  font-size: var(--font-size-sm);
+}
+.language1 {
+  position: absolute;
+  top: 181.7px;
+  left: 208.7px;
+  opacity: 0.5;
+}
+.english1 {
+  top: 179.7px;
+  left: 274.7px;
+  font-size: var(--font-size-sm);
+}
+.english1,
+.eta1,
+.min1 {
+  position: absolute;
+}
+.eta1 {
+  top: 221.7px;
+  left: 27.7px;
+  opacity: 0.5;
+}
+.min1 {
+  top: 219.7px;
+  left: 53.7px;
+  font-size: var(--font-size-sm);
+}
+.total-price1 {
+  position: absolute;
+  top: 221.7px;
+  left: 208.7px;
+  opacity: 0.5;
+}
+.div6 {
+  position: absolute;
+  top: 219.7px;
+  left: 274.7px;
+  font-size: var(--font-size-sm);
+}
+.line36,
+.line37 {
+  position: absolute;
+  top: 168.5px;
+  left: 22px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 331px;
+  height: 1px;
+}
+.line37 {
+  top: 208.5px;
+}
+.car-details-and-price-inner {
+  position: absolute;
+  top: 87.5px;
+  left: 16px;
+  width: 343px;
+  height: 34px;
+  object-fit: cover;
+}
+.car-details-and-price-child1 {
+  position: absolute;
+  top: 133.5px;
+  left: 16px;
+  border-radius: var(--br-4xs);
+  border: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 343px;
+  height: 34px;
+}
+.gaobu-icon18 {
+  position: absolute;
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dibu-icon18 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.car-booking16 {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.unioncarwrie-icon2 {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-parent14,
+.gaobu-container {
+  position: absolute;
+  top: 768.6px;
+  left: 79.8px;
+  width: 65px;
+  height: 36.4px;
+}
+.gaobu-container {
+  height: 100%;
+  width: 100.13%;
+  top: 0;
+  right: -0.13%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  color: var(--color-white);
+}
+.car-details-and-price-child2 {
+  position: absolute;
+  top: 249px;
+  left: -2px;
+  width: 378px;
+  height: 501px;
+}
+.group-2yy-icon {
+  position: absolute;
+  top: 225.5px;
+  left: 306px;
+  width: 56px;
+  height: 56px;
+
+  cursor: pointer;
+}
+.notifications23 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.blackbell-icon10 {
+  position: absolute;
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-parent13 {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.settings19 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.srectangle-233,
+.srectangle-333 {
+  position: absolute;
+  top: 1.3px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-333 {
+  top: 0;
+  left: 7.4px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-2115,
+.srectangle-2214,
+.srectangle-3115,
+.srectangle-3214 {
+  position: absolute;
+  top: 5.6px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-2214,
+.srectangle-3115,
+.srectangle-3214 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-2214,
+.srectangle-3214 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-3214 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.blackset14 {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.settings-parent14 {
+  position: absolute;
+  top: 774.4px;
+  left: 308px;
+  width: 44px;
+  height: 30.6px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.rooms16 {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractwuzi-icon10 {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-parent14 {
+  position: absolute;
+  top: 766.8px;
+  left: 30px;
+  width: 38px;
+  height: 38.3px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.my-profile17 {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.blackpeo-icon14 {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.my-profile-parent14 {
+  position: absolute;
+  top: 769.4px;
+  left: 241.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.car-details-and-price {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,265 @@
+.bicon24 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 375.5px;
+  height: 255.5px;
+  object-fit: cover;
+}
+.bgaodu2-icon2 {
+  position: absolute;
+  height: 14.56%;
+  width: 99.87%;
+  top: 0;
+  right: 0;
+  bottom: 85.44%;
+  left: 0.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bintercontinental {
+  position: absolute;
+  top: 38px;
+  left: 39.5px;
+  font-weight: 500;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.81);
+}
+.bparent8 {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 375.5px;
+  height: 257.5px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.brectangle4 {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  background: linear-gradient(180deg, #00ff94, #0000fe);
+  width: 380px;
+  height: 816px;
+  display: none;
+}
+.benter-promo-code2,
+.bguest-info2,
+.bpromo-code2,
+.broom-info2 {
+  position: absolute;
+  top: 275.5px;
+  left: 20.9px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 148.6px;
+}
+.benter-promo-code2,
+.bguest-info2,
+.bpromo-code2 {
+  top: 490.5px;
+}
+.benter-promo-code2,
+.bpromo-code2 {
+  top: 630.5px;
+}
+.benter-promo-code2 {
+  top: 704.5px;
+  left: 35.9px;
+}
+.bnoof-rooms2 {
+  margin: 0;
+}
+.bnoof-rooms-room-container2 {
+  top: 305.5px;
+  left: 33.2px;
+  color: var(--color-gray-100);
+  width: 96.8px;
+}
+.bair-conditioned-3-container2,
+.bnoof-rooms-room-container2,
+.btotal2 {
+  position: absolute;
+  line-height: 200%;
+  display: inline-block;
+}
+.btotal2 {
+  top: 436.5px;
+  left: 33.2px;
+  color: var(--color-gray-100);
+  width: 77.6px;
+}
+.bair-conditioned-3-container2 {
+  top: 305.5px;
+  left: 112px;
+  text-align: right;
+  width: 234.8px;
+}
+.bif-you-have2,
+.bname-email-mobile-container2 {
+  position: absolute;
+  top: 515.5px;
+  left: 33.2px;
+  line-height: 200%;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 106.8px;
+}
+.bif-you-have2 {
+  top: 647.5px;
+  left: 23.2px;
+  font-size: var(--font-size-xs);
+  width: 305.8px;
+}
+.bb8,
+.bjohn-smith-johnsmithgmailcom-container2 {
+  position: absolute;
+  top: 515.5px;
+  left: 112px;
+  line-height: 200%;
+  text-align: right;
+  display: inline-block;
+  width: 234.8px;
+}
+.bb8 {
+  top: 436.5px;
+  left: 303px;
+  width: 45.8px;
+}
+.bline52,
+.bline53,
+.bline54,
+.bline55 {
+  position: absolute;
+  top: 429.5px;
+  left: -1.5px;
+  border-top: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 378px;
+  height: 1px;
+}
+.bline53,
+.bline54,
+.bline55 {
+  top: 471.5px;
+}
+.bline54,
+.bline55 {
+  top: 612.5px;
+}
+.bline55 {
+  top: 740.5px;
+}
+.bsearch1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 341px;
+  height: 43px;
+}
+.bconfirm-order2 {
+  position: absolute;
+  top: 12.5px;
+  left: 115.5px;
+}
+.bsearch1-container {
+  position: absolute;
+  top: 755.5px;
+  left: 17px;
+  width: 341px;
+  height: 43px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.ba-order-confirm-child {
+  position: absolute;
+  top: 728.5px;
+  left: 36px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 303px;
+  height: 1px;
+  opacity: 0.5;
+}
+.bdiv22,
+.bpeople-liked-this10 {
+  position: absolute;
+  top: 2.9px;
+  left: 17.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 22.3px;
+  height: 12.8px;
+}
+.bpeople-liked-this10 {
+  top: 20.9px;
+  left: 2.2px;
+  font-weight: 300;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bstar-icon14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bfujian-fuzhou10 {
+  position: absolute;
+  top: 5.5px;
+  left: 23.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bgroup-icon10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.bfujian-fuzhou-parent7,
+.bparent9 {
+  position: absolute;
+  top: 10.3px;
+  left: 155.8px;
+  width: 170.3px;
+  height: 21.7px;
+}
+.bparent9 {
+  top: 211.5px;
+  left: 24px;
+  width: 326px;
+  height: 33px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.bfanhui1-icon14 {
+  position: absolute;
+  top: 43.1px;
+  left: 15.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.ba-order-confirm {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 815px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,611 @@
+.find-room {
+  position: absolute;
+  top: 49px;
+  left: 19px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.zuhedi-icon {
+  position: absolute;
+  height: 8.99%;
+  width: 100%;
+  top: 91.01%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.huisejialus,
+.pass,
+.stay {
+  position: absolute;
+  top: 55px;
+}
+.stay {
+  left: 192px;
+  opacity: 0.3;
+}
+.huisejialus,
+.pass {
+  left: 281px;
+}
+.huisejialus {
+  top: 61.5px;
+  left: 232.3px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gainsboro);
+  width: 22px;
+  height: 6.3px;
+}
+.luse {
+  position: absolute;
+  top: 54.3px;
+  left: 249.3px;
+  border-radius: 50%;
+  background-color: var(--color-mediumseagreen);
+  width: 20.8px;
+  height: 20.8px;
+}
+.buzd-icon,
+.gaobu-icon {
+  position: absolute;
+  top: 56.9px;
+  left: 341.8px;
+  width: 21.2px;
+  height: 19.1px;
+}
+.gaobu-icon {
+  height: 4.58%;
+  width: 98.43%;
+  top: 0;
+  right: 1.05%;
+  bottom: 95.42%;
+  left: 0.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dibu-icon {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.rooms {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractroomwrite-icon {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-parent {
+  position: absolute;
+  top: 766.8px;
+  left: 30px;
+  width: 38px;
+  height: 38.3px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.landi1-icon,
+.landi12-icon {
+  position: absolute;
+  height: 4.55%;
+  width: 45.01%;
+  top: 12.46%;
+  right: 49.74%;
+  bottom: 83%;
+  left: 5.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.landi1-icon {
+  right: 4.72%;
+  left: 50.26%;
+}
+.hotels,
+.villas {
+  position: absolute;
+  top: 13.45%;
+  left: 20.81%;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.villas {
+  left: 67.01%;
+  color: var(--color-dodgerblue);
+}
+.find-room-parent {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 381px;
+  height: 818px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.ready-to-search-child {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.rectanglexia-icon,
+.rectanglexia-icon1,
+.rectanglexia-icon2 {
+  position: absolute;
+  top: 295.1px;
+  left: 338.7px;
+  width: 14.1px;
+  height: 14.1px;
+  object-fit: contain;
+}
+.rectanglexia-icon1,
+.rectanglexia-icon2 {
+  top: 362.1px;
+}
+.rectanglexia-icon2 {
+  top: 229.1px;
+}
+.fan {
+  position: absolute;
+  top: 414px;
+  left: 46px;
+  font-size: var(--font-size-lg);
+  text-align: left;
+  opacity: 0.3;
+}
+.ready-to-search-item {
+  position: absolute;
+  top: 163.9px;
+  left: 16px;
+  width: 25.4px;
+  height: 215.9px;
+  object-fit: cover;
+}
+.air-conditioned {
+  position: absolute;
+  top: 414px;
+  left: 170px;
+  font-size: var(--font-size-lg);
+  text-align: left;
+}
+.search1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 341px;
+  height: 43px;
+}
+.search,
+.search1-parent {
+  position: absolute;
+  top: 12.5px;
+  left: 142.5px;
+}
+.search1-parent {
+  top: 447.5px;
+  left: 17px;
+  width: 341px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.ready-to-search-inner {
+  position: absolute;
+  top: 621px;
+  left: 4px;
+  background-color: var(--color-aliceblue);
+  width: 380px;
+  height: 2.5px;
+}
+.best-places {
+  top: 509px;
+  left: 23px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  text-align: left;
+  width: 108px;
+  height: 16px;
+  opacity: 0.5;
+}
+.best-places,
+.three-lanes-and,
+.view-all {
+  position: absolute;
+  display: inline-block;
+}
+.three-lanes-and {
+  top: 596px;
+  left: 23px;
+  color: inherit;
+  width: 92px;
+  height: 13px;
+  text-decoration: none;
+}
+.view-all {
+  top: 509px;
+  left: 276.6px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  width: 82.4px;
+  height: 14.6px;
+  cursor: pointer;
+}
+.west-lake-park {
+  position: absolute;
+  top: 595.9px;
+  left: 127.6px;
+}
+.best-hotels,
+.drum-mo,
+.forest-park {
+  position: absolute;
+  top: 595.9px;
+  left: 237.3px;
+}
+.best-hotels,
+.drum-mo {
+  left: 324.7px;
+}
+.best-hotels {
+  top: 642px;
+  left: 23px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  text-align: left;
+  display: inline-block;
+  width: 108px;
+  height: 16px;
+  opacity: 0.5;
+}
+.intercontinental,
+.view-all1 {
+  position: absolute;
+  top: 728.9px;
+  left: 24.2px;
+  display: inline-block;
+  width: 91.3px;
+  height: 12.8px;
+}
+.view-all1 {
+  top: 642px;
+  left: 276.6px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  width: 82.4px;
+  height: 14.6px;
+  cursor: pointer;
+}
+.hilton,
+.kempinski,
+.sheraton {
+  position: absolute;
+  top: 728.9px;
+  left: 131.7px;
+  display: inline-block;
+  width: 73.8px;
+  height: 12.8px;
+}
+.hilton,
+.sheraton {
+  left: 232.3px;
+  width: 70.2px;
+}
+.hilton {
+  top: 729px;
+  left: 329px;
+  width: 54.8px;
+}
+.icon {
+  left: 23.9px;
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+}
+.icon,
+.icon1,
+.icon2 {
+  position: absolute;
+  top: 531.9px;
+  width: 91.9px;
+  height: 60.1px;
+}
+.icon1 {
+  left: 122.7px;
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+}
+.icon2 {
+  left: 221.4px;
+}
+.icon2,
+.icon3,
+.icon4,
+.icon5,
+.icon6 {
+  border-radius: var(--br-6xs);
+  object-fit: cover;
+}
+.icon3 {
+  position: absolute;
+  top: 532px;
+  left: 321px;
+  width: 53px;
+  height: 60px;
+}
+.icon4,
+.icon5,
+.icon6 {
+  width: 91.9px;
+  height: 60.1px;
+}
+.icon4 {
+  position: absolute;
+  top: 665px;
+  left: 23px;
+}
+.icon5,
+.icon6 {
+  top: 664.9px;
+}
+.icon5 {
+  position: absolute;
+  left: 122.7px;
+}
+.icon6 {
+  left: 221.4px;
+}
+.icon6,
+.icon7,
+.line4 {
+  position: absolute;
+}
+.icon7 {
+  top: 665px;
+  left: 321px;
+  border-radius: var(--br-6xs);
+  width: 53px;
+  height: 60px;
+  object-fit: cover;
+}
+.line4 {
+  top: 29.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.fuzhou,
+.line-parent {
+  position: absolute;
+  top: 0;
+  left: 32px;
+}
+.line-parent {
+  top: 162px;
+  left: 16px;
+  width: 343px;
+  height: 30px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.blackbell-icon,
+.notifications {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.blackbell-icon {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-parent {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.car-booking {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.blackcar-icon {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-parent {
+  position: absolute;
+  top: 768.6px;
+  left: 81.8px;
+  width: 65px;
+  height: 36.4px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.my-profile {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.blackpeo-icon {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.my-profile-parent {
+  position: absolute;
+  top: 769.4px;
+  left: 241.3px;
+  width: 53px;
+  height: 35.6px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.settings,
+.srectangle-2 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.srectangle-2 {
+  top: 1.3px;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-21,
+.srectangle-22,
+.srectangle-3,
+.srectangle-31,
+.srectangle-32 {
+  position: absolute;
+  top: 0;
+  left: 7.4px;
+  background-color: var(--color-midnightblue);
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-21,
+.srectangle-22,
+.srectangle-31,
+.srectangle-32 {
+  top: 5.6px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-22,
+.srectangle-31,
+.srectangle-32 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-22,
+.srectangle-32 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-32 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.blackset,
+.settings-parent {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.settings-parent {
+  top: 774.4px;
+  left: 308px;
+  width: 44px;
+  height: 30.6px;
+  cursor: pointer;
+  color: var(--color-midnightblue);
+}
+.group-icon {
+  position: absolute;
+  top: 413px;
+  left: 16.5px;
+  width: 22px;
+  height: 22px;
+}
+.adults-2-children {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  white-space: pre-wrap;
+}
+.line-group {
+  position: absolute;
+  top: 362px;
+  left: 16px;
+  width: 343px;
+  height: 30px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.line7 {
+  position: absolute;
+  top: 98.8px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 344px;
+  height: 1px;
+}
+.august-2019-1100 {
+  position: absolute;
+  top: 66.3px;
+  left: 32px;
+}
+.huisedot,
+.line-container {
+  position: absolute;
+  cursor: pointer;
+}
+.line-container {
+  top: 227.3px;
+  left: 16px;
+  width: 343px;
+  height: 99.3px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.huisedot {
+  top: 413px;
+  left: 140.5px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 22px;
+  height: 22px;
+}
+.ready-to-search {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

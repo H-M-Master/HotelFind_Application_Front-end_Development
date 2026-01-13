@@ -1,0 +1,103 @@
+.bthree-lanes-and11 {
+  position: absolute;
+  top: 38px;
+  left: 32px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.81);
+}
+.bdiv39,
+.bpeople-liked-this15 {
+  position: absolute;
+  top: 232.4px;
+  left: 26.2px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bdiv39 {
+  top: 2.9px;
+  left: 17.7px;
+  font-weight: 500;
+  width: 22.3px;
+  height: 12.8px;
+}
+.bstar-icon21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bfujian-fuzhou17,
+.bparent17 {
+  position: absolute;
+  top: 211.5px;
+  left: 24px;
+  width: 40px;
+  height: 17px;
+}
+.bfujian-fuzhou17 {
+  top: 5.5px;
+  left: 23.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 146.8px;
+  height: 12.1px;
+}
+.bgroup-icon15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.5px;
+  height: 21.7px;
+  object-fit: cover;
+}
+.bblue1-icon2,
+.bfujian-fuzhou-parent14 {
+  position: absolute;
+  top: 221.8px;
+  left: 179.8px;
+  width: 170.3px;
+  height: 21.7px;
+}
+.bblue1-icon2 {
+  top: 270px;
+  left: 15px;
+  width: 175px;
+  height: 37px;
+}
+.breview-10613 {
+  position: absolute;
+  top: 280px;
+  left: 64px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 82.5px;
+}
+.bgaobu-icon8 {
+  position: absolute;
+  height: 11.95%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 88.05%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bthree-lanes-and-seven-alleys-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 307px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

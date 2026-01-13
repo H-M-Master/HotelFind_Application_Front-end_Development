@@ -1,0 +1,275 @@
+.my-profile-child {
+  position: absolute;
+  top: 744.5px;
+  left: -2px;
+  border-radius: var(--br-sm);
+  width: 381px;
+  height: 73.5px;
+}
+.rectangle5 {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  background: linear-gradient(180deg, #00ff94, #0000fe);
+  width: 380px;
+  height: 816px;
+  display: none;
+}
+.my-profile-item {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 380px;
+  height: 605px;
+}
+.people2-icon1 {
+  position: absolute;
+  top: -1.2px;
+  left: -0.8px;
+  width: 377.1px;
+  height: 480.9px;
+  object-fit: cover;
+}
+.myprofile2 {
+  position: absolute;
+  top: 49px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle6 {
+  position: absolute;
+  top: 342px;
+  left: -1px;
+  background: linear-gradient(0deg, #fff, rgba(255, 255, 255, 0));
+  width: 378px;
+  height: 270px;
+}
+.my-profile-inner {
+  position: absolute;
+  top: 316px;
+  left: 27px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 322px;
+  height: 424px;
+}
+.john-smith2 {
+  margin: 0;
+  font-size: 31px;
+}
+.p {
+  margin: 0;
+}
+.john-smith-johnsmithgmailcom-container {
+  position: absolute;
+  top: 331.9px;
+  left: 56.4px;
+  line-height: 200%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 262.2px;
+  height: 131.2px;
+  font-size: var(--font-size-base);
+}
+.my-profile15 {
+  position: absolute;
+  top: 21.6px;
+  left: 0;
+}
+.unionpeoplewrite-icon {
+  position: relative;
+  width: 17.6px;
+  height: 16.1px;
+}
+.gaobu-icon16,
+.my-profile-parent12 {
+  position: absolute;
+  top: 769.4px;
+  left: 239.3px;
+  width: 53px;
+  height: 35.6px;
+}
+.gaobu-icon16 {
+  height: 4.62%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 95.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dibu-icon16 {
+  position: relative;
+  width: 375.5px;
+  height: 38px;
+}
+.group-parent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375.5px;
+  height: 812px;
+  color: var(--color-white);
+}
+.my-profile-child1 {
+  position: absolute;
+  top: 296.1px;
+  left: 314px;
+  width: 56px;
+  height: 56px;
+  cursor: pointer;
+}
+.add-new-card2 {
+  position: absolute;
+  top: 713px;
+  left: 115px;
+  font-size: var(--font-size-lg);
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  cursor: pointer;
+}
+.blackbell-icon8,
+.notifications21 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.blackbell-icon8 {
+  height: 57.95%;
+  width: 31.88%;
+  top: 0;
+  right: 34.78%;
+  bottom: 42.05%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notifications-parent11 {
+  position: absolute;
+  top: 766px;
+  left: 156px;
+  width: 69px;
+  height: 39px;
+  cursor: pointer;
+}
+.car-booking14 {
+  position: absolute;
+  top: 22.4px;
+  left: 0;
+}
+.blackcar-icon12 {
+  position: relative;
+  width: 22px;
+  height: 17.6px;
+}
+.car-booking-parent12 {
+  position: absolute;
+  top: 768.6px;
+  left: 81.8px;
+  width: 65px;
+  height: 36.4px;
+  cursor: pointer;
+}
+.settings17 {
+  position: absolute;
+  top: 16.6px;
+  left: 0;
+}
+.srectangle-231,
+.srectangle-331 {
+  position: absolute;
+  top: 1.3px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-331 {
+  top: 0;
+  left: 7.4px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-2113,
+.srectangle-2212,
+.srectangle-3113,
+.srectangle-3212 {
+  position: absolute;
+  top: 5.6px;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-2212,
+.srectangle-3113,
+.srectangle-3212 {
+  top: 4.3px;
+  left: 12.6px;
+  width: 2px;
+  height: 4.3px;
+}
+.srectangle-2212,
+.srectangle-3212 {
+  top: 9.5px;
+  left: 0;
+  width: 16.8px;
+  height: 1.6px;
+}
+.srectangle-3212 {
+  top: 8.2px;
+  left: 4.8px;
+  width: 2px;
+  height: 4.3px;
+}
+.blackset12 {
+  position: absolute;
+  top: 0;
+  left: 13.6px;
+  width: 16.8px;
+  height: 12.5px;
+}
+.settings-parent12 {
+  position: absolute;
+  top: 774.4px;
+  left: 308px;
+  width: 44px;
+  height: 30.6px;
+  cursor: pointer;
+}
+.rooms14 {
+  position: absolute;
+  top: 24.3px;
+  left: 0;
+}
+.subtractwuzi-icon8 {
+  position: relative;
+  width: 19.5px;
+  height: 19.5px;
+}
+.rooms-parent12 {
+  position: absolute;
+  top: 766.8px;
+  left: 30px;
+  width: 38px;
+  height: 38.3px;
+  cursor: pointer;
+}
+.my-profile14 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue);
+  font-family: var(--font-roboto);
+}

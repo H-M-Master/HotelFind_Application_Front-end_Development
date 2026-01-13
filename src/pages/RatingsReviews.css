@@ -1,0 +1,263 @@
+.brating-reviews {
+  position: absolute;
+  top: 49px;
+  left: 47px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.breview-summary,
+.bsearch-reviews {
+  position: absolute;
+  top: 109px;
+  left: 54.3px;
+  font-size: var(--font-size-sm);
+}
+.breview-summary {
+  top: 147px;
+  left: 22.3px;
+}
+.bicon25,
+.bratings-reviews-child {
+  position: absolute;
+  top: 105.4px;
+  left: 23.3px;
+  width: 22.8px;
+  height: 24.3px;
+  object-fit: contain;
+}
+.bicon25 {
+  top: 107.1px;
+  left: 332.9px;
+  width: 21.6px;
+  height: 21.6px;
+}
+.bayoub-elhourch,
+.bdiv23,
+.bdiv24 {
+  position: absolute;
+  top: 412px;
+  left: 71.5px;
+}
+.bdiv23,
+.bdiv24 {
+  left: 335.5px;
+}
+.bdiv24 {
+  top: 518px;
+  left: 336.5px;
+}
+.bmins-ago,
+.bnice-hotel-and {
+  position: absolute;
+  top: 461px;
+  left: 23.5px;
+  font-weight: 300;
+}
+.bmins-ago {
+  top: 430px;
+  left: 71.5px;
+  opacity: 0.5;
+}
+.bline56,
+.bline57 {
+  position: absolute;
+  top: 397px;
+  left: -2px;
+  border-top: 2px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 379px;
+  height: 2px;
+}
+.bline57 {
+  top: 499.5px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-aliceblue);
+  width: 336px;
+  height: 1px;
+}
+.bgaobu-icon3 {
+  position: absolute;
+  height: 9.64%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 90.36%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bshoushuokuamn {
+  position: absolute;
+  top: 99.5px;
+  left: 16px;
+  border-radius: var(--br-4xs);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 343px;
+  height: 34px;
+}
+.bgaobu-parent {
+  position: absolute;
+  height: 47.91%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 52.09%;
+  left: 0;
+}
+.bratings-reviews-item {
+  position: absolute;
+  top: 409.5px;
+  left: 16.5px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.bdzigbodi-hosi {
+  position: absolute;
+  top: 518px;
+  left: 71.5px;
+}
+.bcant-hate-this,
+.bdays-ago {
+  position: absolute;
+  top: 567px;
+  left: 23.5px;
+  font-weight: 300;
+}
+.bdays-ago {
+  top: 536px;
+  left: 71.5px;
+  opacity: 0.5;
+}
+.bratings-reviews-inner {
+  position: absolute;
+  top: 515.5px;
+  left: 16.5px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.bdiv25 {
+  top: 620px;
+  left: 326.5px;
+}
+.bdiv25,
+.bhanna,
+.bline58 {
+  position: absolute;
+}
+.bline58 {
+  top: 601.5px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 336px;
+  height: 1px;
+}
+.bhanna {
+  top: 620px;
+  left: 71.5px;
+}
+.bdays-ago1,
+.bgood-service {
+  position: absolute;
+  top: 669px;
+  left: 23.5px;
+  font-weight: 300;
+}
+.bdays-ago1 {
+  top: 638px;
+  left: 71.5px;
+  opacity: 0.5;
+}
+.bellipse-icon {
+  position: absolute;
+  top: 617.5px;
+  left: 16.5px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.bdiv26 {
+  top: 713px;
+  left: 326.5px;
+}
+.bdiv26,
+.bkate,
+.bline59 {
+  position: absolute;
+}
+.bline59 {
+  top: 694.5px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 336px;
+  height: 1px;
+}
+.bkate {
+  top: 713px;
+  left: 71.5px;
+}
+.bgreat-service-wonderful {
+  position: absolute;
+  top: 762px;
+  left: 22.5px;
+  font-weight: 300;
+  display: inline-block;
+  width: 330.5px;
+  height: 41.5px;
+}
+.bdays-ago2 {
+  position: absolute;
+  top: 731px;
+  left: 71.5px;
+  font-weight: 300;
+  opacity: 0.5;
+}
+.bratings-reviews-child1 {
+  position: absolute;
+  top: 710.5px;
+  left: 16.5px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.bwrite-a-review {
+  font-size: var(--font-size-sm);
+}
+.bwrite-a-review-container {
+  position: absolute;
+  top: 146px;
+  left: 238px;
+  text-transform: uppercase;
+  color: var(--color-dodgerblue);
+  cursor: pointer;
+  font-size: 17px;
+}
+.bfanhui-icon2 {
+  position: absolute;
+  top: 53.1px;
+  left: 17.7px;
+  width: 18.2px;
+  height: 18.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.bratings-reviews {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

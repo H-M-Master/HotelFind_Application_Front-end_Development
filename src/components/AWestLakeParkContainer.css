@@ -1,0 +1,73 @@
+.bam-1030 {
+  margin: 0;
+}
+.bam-1030-container {
+  position: absolute;
+  top: 41.5px;
+  left: 103.8px;
+  font-weight: 500;
+  display: inline-block;
+  width: 160.5px;
+  height: 12.8px;
+}
+.bicon48 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 90px;
+  height: 77px;
+  object-fit: cover;
+}
+.bwest-lake-park3 {
+  position: absolute;
+  top: 0;
+  left: 102.6px;
+  font-size: var(--font-size-sm);
+}
+.bdiv43 {
+  top: 23.5px;
+  left: 116.1px;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+  width: 22.3px;
+}
+.bdiv43,
+.bpark,
+.breviews-150 {
+  position: absolute;
+  display: inline-block;
+  height: 12.8px;
+}
+.breviews-150 {
+  top: 21.5px;
+  left: 152.6px;
+  font-weight: 300;
+  color: var(--color-lightslategray);
+  width: 83.3px;
+}
+.bpark {
+  top: 65.5px;
+  left: 101.6px;
+  font-weight: 500;
+  width: 225.3px;
+}
+.bstar-icon25 {
+  position: absolute;
+  top: 20.6px;
+  left: 98.3px;
+  border-radius: var(--br-12xs);
+  width: 17px;
+  height: 17px;
+}
+.bam-1030-pm-parent {
+  position: absolute;
+  top: 275.9px;
+  left: 22.7px;
+  width: 326.8px;
+  height: 79px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
